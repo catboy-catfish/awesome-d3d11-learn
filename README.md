@@ -21,6 +21,7 @@ I hope this helps you as much as it'll help me in the future.
 - [Microsoft: D3D11 Programming Guide](https://docs.microsoft.com/en-us/windows/win32/direct3d11/dx-graphics-overviews)
 - [Microsoft: D3D11 API Reference](https://docs.microsoft.com/en-us/windows/win32/direct3d11/atoc-d3d11-graphics-reference)
 - [Coding Labs: DirectCompute Tutorial](http://www.codinglabs.net/tutorial_compute_shaders_filters.aspx) (uses the deprecated SDK and Visual Studio 2010)
+- [Momme Allalen, Alan Gray, Nevena Ilieva, Anders Sjöström: GPGPU Best Practice Guide, 2017](https://www.researchgate.net/publication/314118681_Best_Practice_Guide_-_GPGPU)
 
 ## Books
 - [Chris Rose: Direct3D Succintly, 2014](https://www.syncfusion.com/ebooks/direct3d) - (Free. Requires Visual Studio 2012 in order to follow. The ebook can either be downloaded or read online.)
