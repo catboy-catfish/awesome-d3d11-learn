@@ -103,3 +103,4 @@ I hope this helps you as much as it'll help me in the future.
 30. PardCode. Warning that some of the code was written accidentally before recording, an example of which being on episode 5 "Drawing a Triangle".
 31. Matt77hias. Port of the old RasterTek DirectX 11 tutorials for Visual Studio 2017.
 32. Joseph Whittington. Used the Internet Archive Wayback Machine to get this page back because it's no longer available. If this is an archive of a GitHub link, don't bother trying to clone it.
+33. Aerideus. Their explanation of deleting the copy constructor and equals operator can help you understand why ChiliTomatoNoodle does the same thing in his episode 6 "Window Framework".
