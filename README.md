@@ -53,9 +53,10 @@ I hope this helps you as much as it'll help me in the future.
 ## YouTube
 
 - [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1) (Tutorial series on setting up runtime-compiled-C++ to use ImGui with DirectX 11.)
-- [ChiliTomatoNoodle: DirectX 11 C++ Tutorial Series](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) (Highly informal and uses crass language. Focuses a lot more on the explanation but does some coding as well. Warning that tons of the code has been written intentionally before recording.)
-- [Jpres: C++ DirectX 11 Engine Tutorial](https://www.youtube.com/watch?v=gQIG77PfLgo&list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2&index=1) (Similar to ChiliTomatoNoodle's tutorial series, but uses the DirectXTK. Jpres doesn't cover topics like shadow mapping or advanced lighting. Instead, the series focuses more on things like input and error handling. Also quite informal but not as vulgar. As mentioned earlier, it uses the DirectXTK (DirectX toolkit) to simplify some parts of the process.)
+- [ChiliTomatoNoodle: DirectX 11 C++ Tutorial Series](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) (Focuses a lot more on the explanation but does some coding as well. Warning that tons of the code has been written intentionally before recording.)
+- [Jpres: C++ DirectX 11 Engine Tutorial](https://www.youtube.com/watch?v=gQIG77PfLgo&list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2&index=1) (Uses the DirectXTK (DirectX toolkit) to simplify some parts of the process.)
 - [Matt Guerrette: DirectX 11 Tutorial Series](https://youtube.com/playlist?list=PL0DPXkWsyQQYv4Zuz0nB0XN3c2MZLeycq&si=bU1Qa5KqXVj_VJa_) (Very likely incomplete or abandoned.)
+- [PardCode: C++ 3D Game Tutorial Series](https://youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy&si=1a_mg2MVHKhIVxH6) (
 
 # Compute shaders
 
