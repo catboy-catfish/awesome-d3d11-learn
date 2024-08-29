@@ -34,7 +34,7 @@ I hope this helps you as much as it'll help me in the future.
 - [Frank Luna: Introduction to 3D Game Programming with DirectX 11, 2012](https://www.amazon.com/dp/1936420228/ref=cm_sw_em_r_mt_dp_BVS4FbSE0JSRC) see Note 10.
 - [Paul Varcholik: Real-Time 3D Rendering with DirectX 11 and HLSL: A Practical Guide to Graphics Programming (Game Design), 2014](https://www.amazon.com/Real-Time-Rendering-DirectX-HLSL-Programming-ebook/dp/B00K3NR6OC) see Note 11.
 - [Jason Zink and Matt Pettineo: Practical Rendering and Computation with Direct3D 11, 2011](https://www.amazon.com/Practical-Rendering-Computation-Direct3D-11/dp/1568817207) see Note 12.
-- [Doron Feinstein: HLSL Development Cookbook, Implement Stunning 3D Rendering Techniques Using the Power of HLSL and DirectX 11](https://www.amazon.com/HLSL-Development-Cookbook-Doron-Feinstein/dp/1849694206) see Note 13.
+- [Doron Feinstein: HLSL Development Cookbook, Implement Stunning 3D Rendering Techniques Using the Power of HLSL and DirectX 11](https://www.amazon.com/HLSL-Development-Cookbook-Doron-Feinstein/dp/1849694206) see Notes 13 and 34.
 
 ## courses
 - [Udemy, Ole Holthe: DirectX 11 Programming](https://www.udemy.com/course/directx11/?couponCode=SKILLS4SALEA) see Note 14.
@@ -104,3 +104,4 @@ I hope this helps you as much as it'll help me in the future.
 31. Matt77hias. Port of the old RasterTek DirectX 11 tutorials for Visual Studio 2017.
 32. Joseph Whittington. Used the Internet Archive Wayback Machine to get this page back because it's no longer available. If this is an archive of a GitHub link, don't bother trying to clone it.
 33. Aerideus. Their explanation of deleting the copy constructor and equals operator can help you understand why ChiliTomatoNoodle does the same thing in his episode 6 "Window Framework".
+34. Most cost-effective book I could find about DirectX 11, but it has mixed reviews due to its sometimes worthless techniques presented and lack of proofreading.
