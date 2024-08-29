@@ -17,3 +17,4 @@ I hope this helps as much as it's helping me.
 - [ImGui: Win32 setup](https://github.com/ocornut/imgui/blob/master/examples/example_win32_directx11/main.cpp) - Example implementation of ImGui into a Win32 DirectX 11 application.
 - [ImGui: SDL setup](https://github.com/ocornut/imgui/blob/master/examples/example_sdl_directx11/main.cpp) - Example implementation of ImGui into an SDL DirectX 11 application.
 - [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Codebase](https://web.archive.org/web/20231224115319/https://github.com/josephwhittington/tutorial_1_d3d11_setup) - Archive of the repository for Joseph Whittington's tutorial on how to set up DirectX 11. Pretty bad. Requires the DirectX SDK as mentioned in the original article.
+- [brainexcerpts: Dxerr](https://github.com/brainexcerpts/Dxerr) - Vaillant's repository for the dxerr (DirectX error library) source code which converts different HRESULTS into more readable formats.
