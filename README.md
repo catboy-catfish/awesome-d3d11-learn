@@ -3,7 +3,7 @@ A curated list designed to aggregate some awesome resources on learning how to u
 
 I created this list due to not being able to easily find as much information for programming with Direct3D as I could for OpenGL or Vulkan.
 
-I hope this helps as much as it's helping me.
+I hope this helps you as much as it'll help me in the future.
 
 # D3D 11
 ## Articles
@@ -19,8 +19,13 @@ I hope this helps as much as it's helping me.
 - [3dgep: Forward vs Deferred vs Forward+ Rendering with DirectX 11] - A large article that details how to implement a forward rendering pipeline, a deferred pipeline, a Forward+ (clustered forward) pipeline, experiment setup and benchmarking results and a downloadable demo. It also includes code samples throughout, though not the complete source code at the end, and compares/analyzes the three rendering algorithms.
 - [TutorialsPoint - DirectX](https://www.tutorialspoint.com/directx/index.htm) - An unstructured heap of random DirectX documentation without any samples or examples.
 - [NVIDIA GameWorks - Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/d3d_samples.htm) - Seven samples and example projects from the NVIDIA GameWorks library, all of which seem to use D3D11. it includes deferred contexts, an implementation of FXAA 3.1, deinterleaved texturing, anti-aliased deferred rendering, advanced motion blur, a compute filter and soft shadows respectively. They have explanations but I haven't found the source code yet.
+
+## Books
+- [Chris Rose: Direct3D Succintly, 2014](https://www.syncfusion.com/ebooks/direct3d) - A free ebook which teaches you how to create 3D applications using C++ and DirectX 11. Involves setting up a project, an overview of Direct3D and HLSL, asset loading, texture mapping, lighting techniques and user input. Requires Visual Studio 2012 in order to follow. The ebook can either be downloaded or read online.
+
 ## Courses
-- [Udemy, Ole Holthe: DirectX 11 Programming](https://www.udemy.com/course/directx11/?couponCode=SKILLS4SALEA) - Normally costs $39.99. Old tutorial hosted on Udemy and written by Ole Holthe. Covers more parts of DirectX than just Direct3D such as input and audio. Deals with making an example DirectX program, 2D and 3D graphics, text rendering, input devices, shaders and effects, cameras, models, audio, asset importing and exporting, and also using DirectX 9 and 10. Outdated, uses Visual Studio 2010 but also contains a chapter for converting to Visual Studio 2012.
+- [Udemy, Ole Holthe: DirectX 11 Programming](https://www.udemy.com/course/directx11/?couponCode=SKILLS4SALEA) - Highest price: $39.99. Old tutorial hosted on Udemy and written by Ole Holthe. Covers more parts of DirectX than just Direct3D such as input and audio. Deals with making an example DirectX program, 2D and 3D graphics, text rendering, input devices, shaders and effects, cameras, models, audio, asset importing and exporting, and also using DirectX 9 and 10. Outdated, uses Visual Studio 2010 but also contains a chapter for converting to Visual Studio 2012.
+
 ## Repositories
 - [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window) - Vaillant's example of the creation of a window using the Windows API.
 - [DXUT](https://github.com/microsoft/DXUT) - a GLUT-like DirectX window manager well suited for sample code or demos.
@@ -29,6 +34,7 @@ I hope this helps as much as it's helping me.
 - [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Codebase](https://web.archive.org/web/20231224115319/https://github.com/josephwhittington/tutorial_1_d3d11_setup) - Archive of the repository for Joseph Whittington's tutorial on how to set up DirectX 11. Pretty bad. Requires the DirectX SDK as mentioned in the original article.
 - [brainexcerpts: Dxerr](https://github.com/brainexcerpts/Dxerr) - Vaillant's repository for the dxerr (DirectX error library) source code which converts different HRESULTS into more readable formats.
 - [Matt77hias: RasterTek](https://github.com/matt77hias/RasterTek) - Port of the old RasterTek DirectX 11 tutorials for Visual Studio 2017.
+
 ## YouTube
 - [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1) - Tutorial series on setting up runtime-compiled-C++ to use ImGui with DirectX 11.
 - [ChiliTomatoNoodle: DirectX 11 C++ Tutorial Series](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) - Tutorial series on using Direct3D 11 to make a rather simple 3D renderer in C++. Deals with windowing, error handling, D3D11 initialization, triangle drawing, 3D rendering, asset importing, asset loading, HLSL, phong shading, lighting, shadow mapping, using ImGui and more. Highly informal and uses crass language. Focuses a lot more on the explanation but does some coding as well. Warning that tons of the code has been written intentionally before recording.
