@@ -6,6 +6,9 @@ I created this list due to not being able to easily find as much information for
 I hope this helps as much as it's helping me.
 
 # D3D 11
+## Articles
 - [Rodolphe Vaillant: Getting started with DirectX 11](https://rodolphe-vaillant.fr/entry/121/getting-started-with-directx-11) - Original page that aggregates a lot of the links listed in this section.
-- [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window) - Vaillant's example of the creation of a window using the Windows API.
 - [MSDN: Module 1. Your First Windows Program](https://learn.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program) - Microsoft's article walking you through how to create your first windows program using the Win32 API.
+## Repositories
+- [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window) - Vaillant's example of the creation of a window using the Windows API.
+- [DXUT](https://github.com/microsoft/DXUT) - a GLUT-like window manager well suited for sample code or demos.
