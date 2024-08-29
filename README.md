@@ -1,12 +1,9 @@
 # awesome-d3d11
 
 A curated list designed to aggregate some awesome resources on learning how to use the Direct3D 11 graphics API.
-
 I created this list due to not being able to easily find as much information for programming with Direct3D as I could for OpenGL or Vulkan.
 
 I hope this helps you as much as it'll help me in the future.
-
-# General
 
 ## Articles
 
@@ -24,6 +21,12 @@ I hope this helps you as much as it'll help me in the future.
 - [NVIDIA GameWorks: Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/d3d_samples.htm) (They have explanations, but I haven't found the source code yet.)
 - [Microsoft: D3D11 Programming Guide](https://docs.microsoft.com/en-us/windows/win32/direct3d11/dx-graphics-overviews)
 - [Microsoft: D3D11 API Reference](https://docs.microsoft.com/en-us/windows/win32/direct3d11/atoc-d3d11-graphics-reference)
+### Compute shaders
+- [Coding Labs: DirectCompute Tutorial](http://www.codinglabs.net/tutorial_compute_shaders_filters.aspx) (uses the deprecated SDK and Visual Studio 2010)
+- [Momme Allalen, Alan Gray, Nevena Ilieva, Anders Sjöström: GPGPU Best Practice Guide, 2017](https://www.researchgate.net/publication/314118681_Best_Practice_Guide_-_GPGPU)
+- [Microsoft: Compute Shader Specifications](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#18.1%20Compute%20Shader%20Instruction%20Set)
+- [Microsoft: How to Create a Compute Shader](https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-compute-create)
+- [Daniel Moth: DirectCompute](http://www.danielmoth.com/Blog/DirectCompute.aspx)
 
 ## Books
 
@@ -34,11 +37,9 @@ I hope this helps you as much as it'll help me in the future.
 - [Doron Feinstein: HLSL Development Cookbook, Implement Stunning 3D Rendering Techniques Using the Power of HLSL and DirectX 11](https://www.amazon.com/HLSL-Development-Cookbook-Doron-Feinstein/dp/1849694206) (Highest price: $54.99 paperback.)
 
 ## Courses
-
 - [Udemy, Ole Holthe: DirectX 11 Programming](https://www.udemy.com/course/directx11/?couponCode=SKILLS4SALEA) (Highest price: $39.99. Outdated, uses Visual Studio 2010 but also contains a chapter for converting to Visual Studio 2012.)
 
 ## Repositories
-
 - [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window)
 - [DXUT](https://github.com/microsoft/DXUT)
 - [ImGui: Win32 setup](https://github.com/ocornut/imgui/blob/master/examples/example_win32_directx11/main.cpp) (Example implementation of ImGui into a Win32 DirectX 11 application.)
@@ -49,29 +50,22 @@ I hope this helps you as much as it'll help me in the future.
 - [jjuiddong: Introduction-to-3D-Game-Programming-With-DirectX-11](https://github.com/jjuiddong/Introduction-to-3D-Game-Programming-With-DirectX11) (Requires Visual Studio 2015 to build.)
 - [Microsoft/walbourn: directx-sdk-samples/Direct3D11Tutorials](https://github.com/walbourn/directx-sdk-samples/tree/master/Direct3D11Tutorials) (Documentation in the Readme.docx file. All projects are built with Visual Studio 2019, but they should work with Visual Studio 2022 if you don't retarget.)
 - [matt77hias: D3D11-Projects](https://github.com/matt77hias/Direct3D-11-Projects)
-
-## YouTube
-
-- [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1) (Tutorial series on setting up runtime-compiled-C++ to use ImGui with DirectX 11.)
-- [ChiliTomatoNoodle: DirectX 11 C++ Tutorial Series](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) (Focuses a lot more on the explanation but does some coding as well. Warning that tons of the code has been written intentionally before recording.)
-- [Jpres: C++ DirectX 11 Engine Tutorial](https://www.youtube.com/watch?v=gQIG77PfLgo&list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2&index=1) (Uses the DirectXTK (DirectX toolkit) to simplify some parts of the process.)
-- [Matt Guerrette: DirectX 11 Tutorial Series](https://youtube.com/playlist?list=PL0DPXkWsyQQYv4Zuz0nB0XN3c2MZLeycq&si=bU1Qa5KqXVj_VJa_) (Very likely incomplete or abandoned.)
-- [PardCode: C++ 3D Game Tutorial Series](https://youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy&si=1a_mg2MVHKhIVxH6) (Uses Visual Studio 2017 but works with Visual Studio 2022. Warning that some of the code has been written before recording. PardCode confirmed with a commenter that this was accidental.)
-
-# Compute shaders
-
-## Articles
-- [Coding Labs: DirectCompute Tutorial](http://www.codinglabs.net/tutorial_compute_shaders_filters.aspx) (uses the deprecated SDK and Visual Studio 2010)
-- [Momme Allalen, Alan Gray, Nevena Ilieva, Anders Sjöström: GPGPU Best Practice Guide, 2017](https://www.researchgate.net/publication/314118681_Best_Practice_Guide_-_GPGPU)
-- [Microsoft: Compute Shader Specifications](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#18.1%20Compute%20Shader%20Instruction%20Set)
-- [Microsoft: How to Create a Compute Shader](https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-compute-create)
-- [Daniel Moth: DirectCompute](http://www.danielmoth.com/Blog/DirectCompute.aspx)
-
-## Repositories
+### Compute shaders
 - [Microsoft/walbourn: directx-sdk-samples/BasicCompute11](https://github.com/walbourn/directx-sdk-samples/tree/master/BasicCompute11)
 
 ## Threads
+### Compute shaders
 - [Game Development Stack Exchange: Need an example of an HLSL compute shader] (https://gamedev.stackexchange.com/questions/128684/need-an-example-of-a-hlsl-compute-shader/1287060)
 
 ## YouTube
+- [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1) (Tutorial series on setting up runtime-compiled-C++ to use ImGui with DirectX 11.)
+- [ChiliTomatoNoodle: C++ 3D DirectX Tutorial](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) (Focuses a lot more on the explanation but does some coding as well. Warning that tons of the code was written intentionally before recording, an example of which being episode 4 "Window Messages".)
+- [daivuk: C++ / DirectX 11 Tutorials](https://www.youtube.com/watch?v=IMXC53ttWGQ&list=PLKmpusAP-J6-XrS52AwBitH39ru3fQEMB) (Note that the tutorial series seems to be abandoned, and the way daivuk does things is rather simplistic, so I doubt you would learn all that much.)
+- [Jpres: C++ DirectX 11 Engine Tutorial](https://www.youtube.com/watch?v=gQIG77PfLgo&list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2&index=1) (Uses the DirectXTK (DirectX toolkit) to simplify some parts of the process.)
+- [Matt Guerrette: DirectX 11 Tutorial Series](https://youtube.com/playlist?list=PL0DPXkWsyQQYv4Zuz0nB0XN3c2MZLeycq&si=bU1Qa5KqXVj_VJa_) (Very likely incomplete or abandoned.)
+- [PardCode: C++ 3D Game Tutorial Series](https://youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy&si=1a_mg2MVHKhIVxH6) (Uses Visual Studio 2017 but works with Visual Studio 2022. Warning that some of the code was written accidentally before recording, an example of which being on episode 5 "Drawing a Triangle".)
+### Compute shaders
 - [4C Conference, Compute Shaders: Optimize Your Engine Using Compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg)
+### Win32/Windowing
+- [Aerideus: Creating a Window using C++ and Win32 | Tutorial](https://www.youtube.com/watch?v=Kx5CN-V6FvQ&t=0s)
+- [SkyVaultGames: Create a Window for your own DirectX Game Engine! | Beginner DirectX Tutorial Part 1](https://youtu.be/7MzKzR1MgNg?si=qnLGJJ4spR_LCoOP)
