@@ -17,7 +17,7 @@ I hope this helps you as much as it'll help me in the future.
 - [3dgep: Texturing and Lighting in DirectX 11](https://www.3dgep.com/texturing-lighting-directx-11/)
 - [3dgep: Forward vs Deferred vs Forward+ Rendering with DirectX 11](https://www.3dgep.com/forward-plus/) (Includes code samples throughout, though not the complete source code at the end.)
 - [TutorialsPoint: DirectX](https://www.tutorialspoint.com/directx/index.htm) (Should probably avoid. An unstructured heap of random DirectX documentation without any samples or examples.)
-- [NVIDIA GameWorks: Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/d3d_samples.htm) - (They have explanations, but I haven't found the source code yet.)
+- [NVIDIA GameWorks: Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/d3d_samples.htm) (They have explanations, but I haven't found the source code yet.)
 - [Microsoft: D3D11 Programming Guide](https://docs.microsoft.com/en-us/windows/win32/direct3d11/dx-graphics-overviews)
 - [Microsoft: D3D11 API Reference](https://docs.microsoft.com/en-us/windows/win32/direct3d11/atoc-d3d11-graphics-reference)
 - [Coding Labs: DirectCompute Tutorial](http://www.codinglabs.net/tutorial_compute_shaders_filters.aspx) (uses the deprecated SDK and Visual Studio 2010)
