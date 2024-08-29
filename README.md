@@ -9,7 +9,8 @@ I hope this helps as much as it's helping me.
 ## Articles
 - [Rodolphe Vaillant: Getting started with DirectX 11](https://rodolphe-vaillant.fr/entry/121/getting-started-with-directx-11) - Original page that aggregates a lot of the links listed in this section.
 - [MSDN: Module 1. Your First Windows Program](https://learn.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program) - Microsoft's article walking you through how to create your first windows program using the Win32 API.
-- [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Tutorial](https://web.archive.org/web/20231203194918/https://dev.to/josephwhittington/setup-d3d11-in-visual-studio-2019-423g) - Archive of Joseph Whittington's tutorial on how to set up DirectX 11. Pretty bad. Requires the DirectX SDK as he mentions.
+- [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Tutorial](https://web.archive.org/web/20231203194918/https://dev.to/josephwhittington/setup-d3d11-in-visual-studio-2019-423g) - Archive of Joseph Whittington's tutorial on how to set up Direct3D 11. Pretty bad. Requires the DirectX SDK as he mentions.
+- [About-prog: DirectX 11 Initialization, First Triangle](https://web.archive.org/web/20211127054316/https://about-prog.com/directx11/direct3d-11-init-and-triangle-rendering) - Archive of About-prog's tutorial on how to initialize DirectX and draw a triangle.
 ## Repositories
 - [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window) - Vaillant's example of the creation of a window using the Windows API.
 - [DXUT](https://github.com/microsoft/DXUT) - a GLUT-like DirectX window manager well suited for sample code or demos.
