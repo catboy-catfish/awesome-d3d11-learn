@@ -56,7 +56,7 @@ I hope this helps you as much as it'll help me in the future.
 - [ChiliTomatoNoodle: DirectX 11 C++ Tutorial Series](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) (Focuses a lot more on the explanation but does some coding as well. Warning that tons of the code has been written intentionally before recording.)
 - [Jpres: C++ DirectX 11 Engine Tutorial](https://www.youtube.com/watch?v=gQIG77PfLgo&list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2&index=1) (Uses the DirectXTK (DirectX toolkit) to simplify some parts of the process.)
 - [Matt Guerrette: DirectX 11 Tutorial Series](https://youtube.com/playlist?list=PL0DPXkWsyQQYv4Zuz0nB0XN3c2MZLeycq&si=bU1Qa5KqXVj_VJa_) (Very likely incomplete or abandoned.)
-- [PardCode: C++ 3D Game Tutorial Series](https://youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy&si=1a_mg2MVHKhIVxH6) (
+- [PardCode: C++ 3D Game Tutorial Series](https://youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy&si=1a_mg2MVHKhIVxH6) (Uses Visual Studio 2017 but works with Visual Studio 2022. Warning that some of the code has been written before recording. PardCode confirmed with a commenter that this was accidental.)
 
 # Compute shaders
 
