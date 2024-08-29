@@ -1,14 +1,13 @@
 # awesome-d3d
-A curated list designed to aggregate some awesome resources on learning how to use the Direct3D graphics API. Mostly deals with DX11/D3D11 or DX12/D3D12.
+A curated list designed to aggregate some awesome resources on learning how to use the Direct3D 11 graphics API.
 
 I created this list due to not being able to easily find as much information for programming with Direct3D as I could for OpenGL or Vulkan.
 
 I hope this helps you as much as it'll help me in the future.
 
-# D3D 11
 ## Articles
 - [Rodolphe Vaillant: Getting started with DirectX 11](https://rodolphe-vaillant.fr/entry/121/getting-started-with-directx-11)
-- [MSDN: Module 1. Your First Windows Program](https://learn.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program)
+- [Microsoft: Module 1. Your First Windows Program](https://learn.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program)
 - [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Tutorial](https://web.archive.org/web/20231203194918/https://dev.to/josephwhittington/setup-d3d11-in-visual-studio-2019-423g) (Pretty bad. Also requires the DirectX SDK.)
 - [About-prog: DirectX 11 Initialization, First Triangle](https://web.archive.org/web/20211127054316/https://about-prog.com/directx11/direct3d-11-init-and-triangle-rendering) - (Doesn't cover windowing or any full code samples. Requires the DirectX SDK as mentioned.)
 - [RasterTek - DirectX 11 on Windows 10 tutorials](https://www.rastertek.com/tutdx11win10.html) (Very comprehensive, but uses a lot of weird C++ practices, code structuring choices and design decisions. Previously required the obsolete DirectX SDK, but has recently been updated to remove that requirement and use Visual Studio 2022.)
@@ -17,8 +16,11 @@ I hope this helps you as much as it'll help me in the future.
 - [3dgep: Introduction to DirectX 11](https://www.3dgep.com/introduction-to-directx-11/)
 - [3dgep: Texturing and Lighting in DirectX 11](https://www.3dgep.com/texturing-lighting-directx-11/)
 - [3dgep: Forward vs Deferred vs Forward+ Rendering with DirectX 11](https://www.3dgep.com/forward-plus/) (Includes code samples throughout, though not the complete source code at the end.)
-- [TutorialsPoint - DirectX](https://www.tutorialspoint.com/directx/index.htm) (Should probably avoid. An unstructured heap of random DirectX documentation without any samples or examples.)
-- [NVIDIA GameWorks - Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/d3d_samples.htm) - (They have explanations, but I haven't found the source code yet.)
+- [TutorialsPoint: DirectX](https://www.tutorialspoint.com/directx/index.htm) (Should probably avoid. An unstructured heap of random DirectX documentation without any samples or examples.)
+- [NVIDIA GameWorks: Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/d3d_samples.htm) - (They have explanations, but I haven't found the source code yet.)
+- [Microsoft: D3D11 Programming Guide](https://docs.microsoft.com/en-us/windows/win32/direct3d11/dx-graphics-overviews)
+- [Microsoft: D3D11 API Reference](https://docs.microsoft.com/en-us/windows/win32/direct3d11/atoc-d3d11-graphics-reference)
+- [Coding Labs: DirectCompute Tutorial](http://www.codinglabs.net/tutorial_compute_shaders_filters.aspx) (uses the deprecated SDK and Visual Studio 2010)
 
 ## Books
 - [Chris Rose: Direct3D Succintly, 2014](https://www.syncfusion.com/ebooks/direct3d) - (Free. Requires Visual Studio 2012 in order to follow. The ebook can either be downloaded or read online.)
@@ -39,6 +41,9 @@ I hope this helps you as much as it'll help me in the future.
 - [brainexcerpts: Dxerr](https://github.com/brainexcerpts/Dxerr)
 - [Matt77hias: RasterTek](https://github.com/matt77hias/RasterTek) (Port of the old RasterTek DirectX 11 tutorials for Visual Studio 2017.)
 - [jjuiddong: Introduction-to-3D-Game-Programming-With-DirectX-11](https://github.com/jjuiddong/Introduction-to-3D-Game-Programming-With-DirectX11) (Requires Visual Studio 2015 to build.)
+- [Microsoft/walbourn: directx-sdk-samples/Direct3D11Tutorials](https://github.com/walbourn/directx-sdk-samples/tree/master/Direct3D11Tutorials) (Documentation in the Readme.docx file. All projects are built with Visual Studio 2019, but they should work with Visual Studio 2022 if you don't retarget.)
+- [matt77hias: D3D11-Projects](https://github.com/matt77hias/Direct3D-11-Projects)
+- [Microsoft/walbourn: directx-sdk-samples/BasicCompute11](https://github.com/walbourn/directx-sdk-samples/tree/master/BasicCompute11)
 
 ## YouTube
 - [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1) (Tutorial series on setting up runtime-compiled-C++ to use ImGui with DirectX 11.)
