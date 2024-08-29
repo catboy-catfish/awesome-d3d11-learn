@@ -1,4 +1,4 @@
-# awesome-d3d
+# awesome-d3d11
 A curated list designed to aggregate some awesome resources on learning how to use the Direct3D 11 graphics API.
 
 I created this list due to not being able to easily find as much information for programming with Direct3D as I could for OpenGL or Vulkan.
