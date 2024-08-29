@@ -49,7 +49,7 @@ I hope this helps you as much as it'll help me in the future.
 - [matt77hias: D3D11-Projects](https://github.com/matt77hias/Direct3D-11-Projects)
 ### compute shaders
 - [Microsoft/walbourn: directx-sdk-samples/BasicCompute11](https://github.com/walbourn/directx-sdk-samples/tree/master/BasicCompute11)
-### win32/Windowing
+### win32/windowing
 - [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window)
 
 ## threads
