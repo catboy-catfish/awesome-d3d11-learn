@@ -1,4 +1,4 @@
-# awesome direct3D 11
+# awesome direct3D 11 learning
 
 ![](IMG_1528.png)
 
