@@ -39,6 +39,7 @@ I hope this helps you as much as it'll help me in the future.
 - [Doron Feinstein: HLSL Development Cookbook, Implement Stunning 3D Rendering Techniques Using the Power of HLSL and DirectX 11](https://www.amazon.com/HLSL-Development-Cookbook-Doron-Feinstein/dp/1849694206) see Notes 13 and 34.
 - [Justin Stenning: Direct3D Rendering Cookbook](https://www.amazon.com/dp/1849697108?tag=uuid10-20) see Note 38.
 - [Pooya Elimandar: DirectX 11.1 Game Programming](https://www.amazon.com/dp/184969480X?tag=uuid10-20) see Note 39.
+- [Alexander Osou: Terrain Rendering mit Hardware Tessellation unter DirectX 11: Effiziente Visualisierung von Landschaften in Videospielen und Simulatoren (German Edition)] (https://www.amazon.com/Terrain-Rendering-Hardware-Tessellation-DirectX/dp/363963294X/ref=sr_1_6?crid=1ZFCI4QFEJYUM&dib=eyJ2IjoiMSJ9.p_pzkzOr7JmMUaGPoRnqMdu5fWQcV4sejVVbBg5IKM7dGtyZlWGj_ZlyJD0evhc65A_iCiiiQ1VNANbC_up5jqco2SXs_dzwV25XRIiPR9qk4AmeNDPjUpzQkvFBHkIYZPngDGd17hH_3bv-Ioltze_7USTOoDg0JANOSizJrRaj13rMhn1AJsSkTylXp2rY.9Fz__GuNVqLksOUBIRDWxH3V5W-YFvKWA-tiPGnN0s8&dib_tag=se&keywords=directx+11&qid=1724983063&s=books&sprefix=directx+11%2Cstripbooks-intl-ship%2C264&sr=1-6) see Note 41.
 ### compute shaders
 - [David H. Eberly: GPGPU Programming for Games and Science](https://www.amazon.com/GPGPU-Programming-Games-Science-Eberly/dp/1466595353/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9._ez2TWGt8iVv0szQCu9ia6WsjYrCMkJx4QbKXeb3zh8ci9wPebXat6yzzA6bE2F8.tFH73CParScUSVYx2QHJV-vMqnRTsIQZegE4hcb67AU&qid=1724982940&sr=1-1-catcorr) see Note 40.
 
@@ -120,5 +121,6 @@ I hope this helps you as much as it'll help me in the future.
 38. Justin Stenning. Highest price: $62.99 paperback.
 39. Pooya Elimandar. Highest price: $39.99 paperback.
 40. David H. Eberly. Highest price: $143.53 hardcover.
+41. Alexander Osou. In German. Highest price: $60.49 paperback.
 
 If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue!
