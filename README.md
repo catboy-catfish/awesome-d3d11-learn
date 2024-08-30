@@ -70,8 +70,8 @@ I hope this helps you as much as it'll help me in the future.
 ### compute shaders
 - [4C Conference, Compute Shaders: Optimize Your Engine Using Compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg)
 ### win32/windowing
-- [Aerideus: Creating a Window using C++ and Win32 | Tutorial](https://www.youtube.com/watch?v=Kx5CN-V6FvQ&t=0s)
-- [SkyVaultGames: Create a Window for your own DirectX Game Engine! | Beginner DirectX Tutorial Part 1](https://youtu.be/7MzKzR1MgNg?si=qnLGJJ4spR_LCoOP)
+- [Aerideus: Creating a Window using C++ and Win32 | Tutorial](https://www.youtube.com/watch?v=Kx5CN-V6FvQ&t=0s) see Note 33.
+- [SkyVaultGames: Create a Window for your own DirectX Game Engine! | Beginner DirectX Tutorial Part 1](https://youtu.be/7MzKzR1MgNg?si=qnLGJJ4spR_LCoOP) see Notes 23 and 26.
 
 # notes
 0. Rodolphe Vaillant. This article is where most of the links came from.
