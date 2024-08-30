@@ -20,7 +20,7 @@ I hope this helps you as much as it'll help me in the future.
 - [NVIDIA GameWorks: Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/d3d_samples.htm) see Note 8.
 - [Microsoft: D3D11 Programming Guide](https://docs.microsoft.com/en-us/windows/win32/direct3d11/dx-graphics-overviews)
 - [Microsoft: D3D11 API Reference](https://docs.microsoft.com/en-us/windows/win32/direct3d11/atoc-d3d11-graphics-reference)
-- [Microsoft/van Bryn, DirectX Developer Blog: Useful Links](https://devblogs.microsoft.com/directx/useful-links/)
+- [Microsoft/van Bryn, DirectX Developer Blog: Useful Links](https://devblogs.microsoft.com/directx/useful-links/) see Note 37.
 ### compute shaders
 - [Coding Labs: DirectCompute Tutorial](http://www.codinglabs.net/tutorial_compute_shaders_filters.aspx) see Notes 1 and 5
 - [Momme Allalen, Alan Gray, Nevena Ilieva, Anders Sjöström: GPGPU Best Practice Guide, 2017](https://www.researchgate.net/publication/314118681_Best_Practice_Guide_-_GPGPU)
@@ -112,6 +112,7 @@ I hope this helps you as much as it'll help me in the future.
 32. Joseph Whittington. Used the Internet Archive Wayback Machine to get this page back because it's no longer available. If this is an archive of a GitHub link, don't bother trying to clone it.
 33. Aerideus. Their explanation of deleting the copy constructor and equals operator can help you understand why ChiliTomatoNoodle does the same thing in his episode 6 "Window Framework".
 34. Most cost-effective book I could find about DirectX 11, but it has mixed reviews due to its sometimes worthless techniques presented and lack of proofreading.
-35. iGunSlingeRv2. Uses pretty bad coding practices, such as "using namespace std."
+36. iGunSlingeRv2. Uses pretty bad coding practices, such as "using namespace std."
+37. The links here are more geared towards Direct3D 12 developers, but they could probably provide value to Direct3D 11 developers as well.
 
 If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue!
