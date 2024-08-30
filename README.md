@@ -110,3 +110,5 @@ I hope this helps you as much as it'll help me in the future.
 33. Aerideus. Their explanation of deleting the copy constructor and equals operator can help you understand why ChiliTomatoNoodle does the same thing in his episode 6 "Window Framework".
 34. Most cost-effective book I could find about DirectX 11, but it has mixed reviews due to its sometimes worthless techniques presented and lack of proofreading.
 35. iGunSlingeRv2. Uses pretty bad coding practices, such as "using namespace std."
+
+If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue!
