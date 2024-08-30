@@ -55,6 +55,8 @@ I hope this helps you as much as it'll help me in the future.
 - [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window)
 
 ## threads
+- [Game Development Stack Exchange: How to properly handle errors in a D3D11 framework?](https://gamedev.stackexchange.com/questions/16732/how-to-properly-handle-errors-in-a-d3d11-framework)
+- [Game Development Stack Exchange: IDXGIFactory::CreateSwapChain() vs D3D11CreateDeviceAndSwapChain() - When to use which for making a swap chain?](https://gamedev.stackexchange.com/questions/211780/idxgifactorycreateswapchain-vs-d3d11createdeviceandswapchain-when-to-use-w)
 ### compute shaders
 - [Game Development Stack Exchange: Need an example of an HLSL compute shader](https://gamedev.stackexchange.com/questions/128684/need-an-example-of-a-hlsl-compute-shader/1287060)
 
