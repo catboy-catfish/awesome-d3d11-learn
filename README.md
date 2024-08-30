@@ -39,6 +39,7 @@ I hope this helps you as much as it'll help me in the future.
 - [Jason Zink and Matt Pettineo: Practical Rendering and Computation with Direct3D 11, 2011](https://www.amazon.com/Practical-Rendering-Computation-Direct3D-11/dp/1568817207) see Note 12.
 - [Doron Feinstein: HLSL Development Cookbook, Implement Stunning 3D Rendering Techniques Using the Power of HLSL and DirectX 11](https://www.amazon.com/HLSL-Development-Cookbook-Doron-Feinstein/dp/1849694206) see Notes 13 and 34.
 - [Justin Stenning: Direct3D Rendering Cookbook](https://www.amazon.com/dp/1849697108?tag=uuid10-20) see Note 38.
+- [Pooya Elimandar: DirectX 11.1 Game Programming](https://www.amazon.com/dp/184969480X?tag=uuid10-20) see Note 39.
 
 ## courses
 - [Udemy, Ole Holthe: DirectX 11 Programming](https://www.udemy.com/course/directx11/?couponCode=SKILLS4SALEA) see Note 14.
@@ -116,5 +117,6 @@ I hope this helps you as much as it'll help me in the future.
 36. iGunSlingeRv2. Uses pretty bad coding practices, such as "using namespace std."
 37. The links here are more geared towards Direct3D 12 developers, but they could probably provide value to Direct3D 11 developers as well.
 38. Justin Stenning. Highest price: $62.99 paperback.
+39. Pooya Elimandar. Highest price: $39.99 paperback.
 
 If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue!
