@@ -49,17 +49,18 @@ I hope this helps you as much as it'll help me in the future.
 - [Udemy, Ole Holthe: DirectX 11 Programming](https://www.udemy.com/course/directx11/?couponCode=SKILLS4SALEA) see Note 14.
 
 ## repositories
+- [walbourn: directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples) see Notes 42 and 43.
 - [ImGui: Win32 setup](https://github.com/ocornut/imgui/blob/master/examples/example_win32_directx11/main.cpp) see Note 15.
 - [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Codebase](https://web.archive.org/web/20231224115319/https://github.com/josephwhittington/tutorial_1_d3d11_setup) see Note 16.
 - [brainexcerpts: Dxerr](https://github.com/brainexcerpts/Dxerr)
 - [Matt77hias: RasterTek](https://github.com/matt77hias/RasterTek) see Note 31.
 - [jjuiddong: Introduction-to-3D-Game-Programming-With-DirectX-11](https://github.com/jjuiddong/Introduction-to-3D-Game-Programming-With-DirectX11) see Note 17.
-- [Microsoft/walbourn: directx-sdk-samples/Direct3D11Tutorials](https://github.com/walbourn/directx-sdk-samples/tree/master/Direct3D11Tutorials) see Notes 18 to 20.
 - [matt77hias: D3D11-Projects](https://github.com/matt77hias/Direct3D-11-Projects)
 - [Microsoft: DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
 - [kevinmoran: BeginnerDirect3D11](https://github.com/kevinmoran/BeginnerDirect3D11)
-### compute shaders
-- [Microsoft/walbourn: directx-sdk-samples/BasicCompute11](https://github.com/walbourn/directx-sdk-samples/tree/master/BasicCompute11)
+### utilities
+- [Microsoft: DirectXTK](https://github.com/microsoft/DirectXTK)
+- [Microsoft: DXUT](https://github.com/microsoft/DXUT)
 ### win32/windowing
 - [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window)
 
@@ -126,5 +127,7 @@ I hope this helps you as much as it'll help me in the future.
 39. Pooya Elimandar. Highest price: $39.99 paperback.
 40. David H. Eberly. Highest price: $143.53 hardcover.
 41. Alexander Osou. In German. Highest price: $60.49 paperback.
+42. DirectX SDK Samples. Go into Direct3D11Tutorials to find the tutorials.
+43. DirectX SDK Samples. Go into BasicCompute11 to find a basic example of compute shaders.
 
 If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue!
