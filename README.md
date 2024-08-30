@@ -55,6 +55,7 @@ I hope this helps you as much as it'll help me in the future.
 - [jjuiddong: Introduction-to-3D-Game-Programming-With-DirectX-11](https://github.com/jjuiddong/Introduction-to-3D-Game-Programming-With-DirectX11) see Note 17.
 - [Microsoft/walbourn: directx-sdk-samples/Direct3D11Tutorials](https://github.com/walbourn/directx-sdk-samples/tree/master/Direct3D11Tutorials) see Notes 18 to 20.
 - [matt77hias: D3D11-Projects](https://github.com/matt77hias/Direct3D-11-Projects)
+- [Microsoft: DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
 ### compute shaders
 - [Microsoft/walbourn: directx-sdk-samples/BasicCompute11](https://github.com/walbourn/directx-sdk-samples/tree/master/BasicCompute11)
 ### win32/windowing
