@@ -90,7 +90,7 @@ I hope this helps you as much as it'll help me in the future.
 1. Requires the obsolete DirectX SDK.
 2. Joseph Whittington. Pretty bad.
 3. About-prog. Doesn't cover windowing or any full code samples, it's just a guide on how to use the Direct3D 11 API.
-4. RasterTek. Very comprehensive, but uses a lot of weird C++ practices, code structuring decisions and design choices. Previously required the obsolete DirectX SDK, but it has recently been updated to remove that requirement and upgrade the project to Visual Studio 2022.
+4. RasterTek. Deals with a lot of stuff very relevant to game development, but the code is hideous. Previously required the obsolete DirectX SDK, but it has recently been updated to remove that requirement and upgrade the project to Visual Studio 2022.
 5. Uses Visual Studio 2010.
 6. 3dgep. Includes code samples throughout, though not the complete source code at the end.
 7. TutorialsPoint. You should probably avoid this one. An unstructured heap of random DirectX documentation without any samples or examples.
@@ -119,7 +119,7 @@ I hope this helps you as much as it'll help me in the future.
 30. PardCode. Warning that some of the code was written accidentally before recording, an example of which being on episode 5 "Drawing a Triangle".
 31. Matt77hias. Port of the old RasterTek DirectX 11 tutorials for Visual Studio 2017.
 32. Joseph Whittington. Used the Internet Archive Wayback Machine to get this page back because it's no longer available. If this is an archive of a GitHub link, don't bother trying to clone it.
-33. Aerideus. Their explanation of deleting the copy constructor and equals operator can help you understand why ChiliTomatoNoodle does the same thing in his episode 6 "Window Framework".
+33. Aerideus. Not intended to be a DirectX 11 tutorial, but Aerideus briefly mentions DirectX at the start. Their explanation of deleting the copy constructor and equals operator can help you towards understanding why ChiliTomatoNoodle does the same thing in his episode 6 "Window Framework".
 34. Doron Feinstein. Most cost-effective book I could find about DirectX 11, but it has mixed reviews due to its sometimes worthless techniques presented and lack of proofreading.
 36. iGunSlingeRv2. Uses pretty bad coding practices, such as "using namespace std."
 37. The links here are more geared towards Direct3D 12 developers, but they could probably provide value to Direct3D 11 developers as well.
