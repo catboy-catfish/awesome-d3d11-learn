@@ -32,7 +32,6 @@ I hope this helps you as much as it'll help me in the future.
 - [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Tutorial](https://web.archive.org/web/20231203194918/https://dev.to/josephwhittington/setup-d3d11-in-visual-studio-2019-423g) see Notes 1, 2 and 32.
 
 ## books
-
 - [Chris Rose: Direct3D Succintly, 2014](https://www.syncfusion.com/ebooks/direct3d) see Note 9
 - [Frank Luna: Introduction to 3D Game Programming with DirectX 11, 2012](https://www.amazon.com/dp/1936420228/ref=cm_sw_em_r_mt_dp_BVS4FbSE0JSRC) see Note 10.
 - [Paul Varcholik: Real-Time 3D Rendering with DirectX 11 and HLSL: A Practical Guide to Graphics Programming (Game Design), 2014](https://www.amazon.com/Real-Time-Rendering-DirectX-HLSL-Programming-ebook/dp/B00K3NR6OC) see Note 11.
@@ -40,6 +39,8 @@ I hope this helps you as much as it'll help me in the future.
 - [Doron Feinstein: HLSL Development Cookbook, Implement Stunning 3D Rendering Techniques Using the Power of HLSL and DirectX 11](https://www.amazon.com/HLSL-Development-Cookbook-Doron-Feinstein/dp/1849694206) see Notes 13 and 34.
 - [Justin Stenning: Direct3D Rendering Cookbook](https://www.amazon.com/dp/1849697108?tag=uuid10-20) see Note 38.
 - [Pooya Elimandar: DirectX 11.1 Game Programming](https://www.amazon.com/dp/184969480X?tag=uuid10-20) see Note 39.
+### compute shaders
+- [David H. Eberly: GPGPU Programming for Games and Science](https://www.amazon.com/GPGPU-Programming-Games-Science-Eberly/dp/1466595353/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9._ez2TWGt8iVv0szQCu9ia6WsjYrCMkJx4QbKXeb3zh8ci9wPebXat6yzzA6bE2F8.tFH73CParScUSVYx2QHJV-vMqnRTsIQZegE4hcb67AU&qid=1724982940&sr=1-1-catcorr) see Note 40.
 
 ## courses
 - [Udemy, Ole Holthe: DirectX 11 Programming](https://www.udemy.com/course/directx11/?couponCode=SKILLS4SALEA) see Note 14.
@@ -118,5 +119,6 @@ I hope this helps you as much as it'll help me in the future.
 37. The links here are more geared towards Direct3D 12 developers, but they could probably provide value to Direct3D 11 developers as well.
 38. Justin Stenning. Highest price: $62.99 paperback.
 39. Pooya Elimandar. Highest price: $39.99 paperback.
+40. David H. Eberly. Highest price: $143.53 hardcover.
 
 If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue!
