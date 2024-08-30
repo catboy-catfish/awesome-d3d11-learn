@@ -56,10 +56,11 @@ I hope this helps you as much as it'll help me in the future.
 ### compute shaders
 - [Game Development Stack Exchange: Need an example of an HLSL compute shader] (https://gamedev.stackexchange.com/questions/128684/need-an-example-of-a-hlsl-compute-shader/1287060)
 
-## youTube
+## youtube
 - [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1)
 - [ChiliTomatoNoodle: C++ 3D DirectX Tutorial](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD)
 - [daivuk: C++ / DirectX 11 Tutorials](https://www.youtube.com/watch?v=IMXC53ttWGQ&list=PLKmpusAP-J6-XrS52AwBitH39ru3fQEMB) see Note 23, 24 and 26.
+- [Hilze Vonck: Deferred Rendering / Shading Tutorial DirectX11](https://youtu.be/2ThW4Gz6oYM?si=wFV-EpiqQ2uHwjGQ)
 - [iGunSlingeRv2: C++ DirectX 11 Tutorial](https://youtube.com/playlist?list=PLuepR07d9noUHvSQ98T0gxNQOvWBLfQGh&si=QVDO9PjYlScJkX2q) see Note 35.
 - [Jpres: C++ DirectX 11 Engine Tutorial](https://www.youtube.com/watch?v=gQIG77PfLgo&list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2&index=1) see Note 25.
 - [Matt Guerrette: DirectX 11 Tutorial Series](https://youtube.com/playlist?list=PL0DPXkWsyQQYv4Zuz0nB0XN3c2MZLeycq&si=bU1Qa5KqXVj_VJa_) see Note 23 and 26.
