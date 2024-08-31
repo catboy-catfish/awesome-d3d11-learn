@@ -23,6 +23,8 @@ I hope this helps you as much as it'll help me in the future.
 - [Microsoft/van Bryn, DirectX Developer Blog: Useful Links](https://devblogs.microsoft.com/directx/useful-links/) see Note 36.
 - [Microsoft: Create a simple Universal Windows Program (UWP) game with DirectX](https://learn.microsoft.com/en-us/windows/uwp/gaming/tutorial--create-your-first-uwp-directx-game)
 - [maraneshi: HLSL Constant Buffer Layout Visualizer](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)
+- [Chuck Walbourn: Legacy D3DX on NuGet](https://walbourn.github.io/legacy-d3dx-on-nuget/)
+- [Chuck Walbourn: Where is the DirectX SDK (2021 edition)?](https://walbourn.github.io/where-is-the-directx-sdk-2021-edition/)
 ### compute shaders
 - [Coding Labs: DirectCompute Tutorial](http://www.codinglabs.net/tutorial_compute_shaders_filters.aspx) see Notes 1 and 5
 - [Momme Allalen, Alan Gray, Nevena Ilieva, Anders Sjöström: GPGPU Best Practice Guide, 2017](https://www.researchgate.net/publication/314118681_Best_Practice_Guide_-_GPGPU)
@@ -59,8 +61,12 @@ I hope this helps you as much as it'll help me in the future.
 - [Microsoft: DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
 - [kevinmoran: BeginnerDirect3D11](https://github.com/kevinmoran/BeginnerDirect3D11)
 ### utilities
+- [Microsoft: DirectXMath](https://github.com/microsoft/DirectXMath)
+- [Microsoft: DirectXMesh](https://github.com/microsoft/DirectXMesh)
+- [Microsoft: DirectXTex](https://github.com/microsoft/DirectXTex/)
 - [Microsoft: DirectXTK](https://github.com/microsoft/DirectXTK)
 - [Microsoft: DXUT](https://github.com/microsoft/DXUT)
+- [Microsoft: FX11](https://github.com/microsoft/FX11/)
 ### win32/windowing
 - [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window)
 
