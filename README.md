@@ -46,6 +46,7 @@ I hope this helps you as much as it'll help me in the future.
 - [Justin Stenning: Direct3D Rendering Cookbook](https://www.amazon.com/dp/1849697108?tag=uuid10-20) see Note 38.
 - [Pooya Elimandar: DirectX 11.1 Game Programming](https://www.amazon.com/dp/184969480X?tag=uuid10-20) see Note 39.
 - [Alexander Osou: Terrain Rendering mit Hardware Tessellation unter DirectX 11: Effiziente Visualisierung von Landschaften in Videospielen und Simulatoren (German Edition)](https://www.amazon.com/Terrain-Rendering-Hardware-Tessellation-DirectX/dp/363963294X/ref=sr_1_6?crid=1ZFCI4QFEJYUM&dib=eyJ2IjoiMSJ9.p_pzkzOr7JmMUaGPoRnqMdu5fWQcV4sejVVbBg5IKM7dGtyZlWGj_ZlyJD0evhc65A_iCiiiQ1VNANbC_up5jqco2SXs_dzwV25XRIiPR9qk4AmeNDPjUpzQkvFBHkIYZPngDGd17hH_3bv-Ioltze_7USTOoDg0JANOSizJrRaj13rMhn1AJsSkTylXp2rY.9Fz__GuNVqLksOUBIRDWxH3V5W-YFvKWA-tiPGnN0s8&dib_tag=se&keywords=directx+11&qid=1724983063&s=books&sprefix=directx+11%2Cstripbooks-intl-ship%2C264&sr=1-6) see Note 40.
+- [Tomas Akenine-Möller, Eric Haines, Naty Hoffman - Real-Time Rendering, 3rd Edition](https://www.amazon.com/Real-Time-Rendering-Tomas-Akenine-Mo-C2-A8ller-ebook-dp-B007COYODQ/dp/B007COYODQ/ref=mt_other?_encoding=UTF8&me=&qid=) see Note 45.
 ### compute shaders
 - [David H. Eberly: GPGPU Programming for Games and Science](https://www.amazon.com/GPGPU-Programming-Games-Science-Eberly/dp/1466595353/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9._ez2TWGt8iVv0szQCu9ia6WsjYrCMkJx4QbKXeb3zh8ci9wPebXat6yzzA6bE2F8.tFH73CParScUSVYx2QHJV-vMqnRTsIQZegE4hcb67AU&qid=1724982940&sr=1-1-catcorr) see Note 40.
 
@@ -129,7 +130,7 @@ I hope this helps you as much as it'll help me in the future.
 31. Matt77hias. Port of the old RasterTek DirectX 11 tutorials for Visual Studio 2017.
 32. Joseph Whittington. Used the Internet Archive Wayback Machine to get this page back because it's no longer available. If this is an archive of a GitHub link, don't bother trying to clone it.
 33. Aerideus. Not intended to be a DirectX 11 tutorial, but Aerideus briefly mentions DirectX at the start. Their explanation of deleting the copy constructor and equals operator can help you towards understanding why ChiliTomatoNoodle does the same thing in his episode 6 "Window Framework".
-34. Doron Feinstein. Most cost-effective book I could find about DirectX 11, but it has mixed reviews due to its sometimes worthless techniques presented and lack of proofreading.
+34. Doron Feinstein. Most cost-effective book I have about DirectX 11, but it has mixed reviews due to its sometimes worthless techniques presented and lack of proofreading.
 36. iGunSlingeRv2. Uses pretty bad coding practices, such as "using namespace std."
 37. The links here are more geared towards Direct3D 12 developers, but they could probably provide value to Direct3D 11 developers as well.
 38. Justin Stenning. Highest price: $62.99 paperback.
@@ -139,5 +140,6 @@ I hope this helps you as much as it'll help me in the future.
 42. DirectX SDK Samples. Go into Direct3D11Tutorials to find the tutorials.
 43. DirectX SDK Samples. Go into BasicCompute11 to find a basic example of compute shaders.
 44. PardCode. This tutorial series isn't for DirectX, it's for OpenGL, but this episode in particular doesn't deal with OpenGL in any way. It can be thought of as a refactored version of PardCode's DirectX tutorial.
+45. Tomas Akenine-Möller, Eric Haines, Naty Hoffman. Highest price: $12.68 hardcover. Doesn't cover DirectX 11 in particular, it's more about computer graphics in general, but apparently it does use D3D11.
 
 If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue!
