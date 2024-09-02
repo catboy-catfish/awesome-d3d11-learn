@@ -7,12 +7,12 @@ I created this list due to not being able to easily find as much information for
 
 # win32 / windowing
 This section brings together resources dedicated to setting up a window with the Win32 API.
-## articles
-- [Microsoft: Module 1. Your First Windows Program](https://learn.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program)
-- [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Tutorial](https://web.archive.org/web/20231203194918/https://dev.to/josephwhittington/setup-d3d11-in-visual-studio-2019-423g) see Notes 1, 2 and 32.
 ## repositories
 - [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window)
-## youtube
+## webpages
+- [Microsoft: Module 1. Your First Windows Program](https://learn.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program)
+- [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Tutorial](https://web.archive.org/web/20231203194918/https://dev.to/josephwhittington/setup-d3d11-in-visual-studio-2019-423g) see Notes 1, 2 and 32.
+### youtube
 - [Aerideus: Creating a Window using C++ and Win32 | Tutorial](https://www.youtube.com/watch?v=Kx5CN-V6FvQ&t=0s) see Note 33.
 - [PardCode: C++ OpenGL 3D Game Tutorial 1, Making the Window with the Win32 API](https://www.youtube.com/watch?v=jHcz22MDPeE&list=PLv8DnRaQOs5-TyYnF56YghOxQBNr1VVmF) see Note 44.
 - [SkyVaultGames: Create a Window for your own DirectX Game Engine! | Beginner DirectX Tutorial Part 1](https://youtu.be/7MzKzR1MgNg?si=qnLGJJ4spR_LCoOP) see Notes 23 and 26.
