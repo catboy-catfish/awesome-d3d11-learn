@@ -63,6 +63,7 @@ I created this list due to not being able to easily find as much information for
 - [Chuck Walbourn: Book Recommendations](https://walbourn.github.io/book-recommendations/)
 - [Microsoft/van Bryn, DirectX Developer Blog: Useful Links](https://devblogs.microsoft.com/directx/useful-links/) see Note 36.
 - [Rodolphe Vaillant: Getting started with DirectX 11](https://rodolphe-vaillant.fr/entry/121/getting-started-with-directx-11) see Note 0.
+- [graphicsprogramming.org/resources](https://graphics-programming.org/resources/)
 ### software overviews
 - [NVIDIA GameWorks: Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/direct3d_index.htm) see Note 8.
 ### tutorials and walkthroughs
