@@ -19,7 +19,7 @@ I created this list due to not being able to easily find as much information for
   - [courses](#d3d11-courses)
   - [repositories](#d3d11-repositories)
     - [utilities](#d3d11-utilities)
-  - [webpages](#d3d-webpages)
+  - [webpages](#d3d11-webpages)
     - [blog posts](#d3d11-blog-posts)
     - [online threads](#d3d11-online-threads)
     - [resource aggregators](#d3d11-resource-aggregators)
@@ -79,24 +79,24 @@ I created this list due to not being able to easily find as much information for
 - [Microsoft: DXUT](https://github.com/microsoft/DXUT)
 - [Microsoft: FX11](https://github.com/microsoft/FX11/)
 
-## d3d webpages
-### d3d blog posts
+## d3d11 webpages
+### d3d11 blog posts
 - [Microsoft: DirectX-Specs](https://microsoft.github.io/DirectX-Specs/)
 - [Microsoft/Balaz: Visual Studio 2015 and Graphics Tools for Windows 10](https://devblogs.microsoft.com/cppblog/visual-studio-2015-and-graphics-tools-for-windows-10/)
 - [Chuck Walbourn: Legacy D3DX on NuGet](https://walbourn.github.io/legacy-d3dx-on-nuget/)
 - [Chuck Walbourn: Where is the DirectX SDK (2021 edition)?](https://walbourn.github.io/where-is-the-directx-sdk-2021-edition/)
-### d3d online threads
+### d3d11 online threads
 - [Game Development Stack Exchange: How to properly handle errors in a D3D11 framework?](https://gamedev.stackexchange.com/questions/16732/how-to-properly-handle-errors-in-a-d3d11-framework)
 - [Game Development Stack Exchange: IDXGIFactory::CreateSwapChain() vs D3D11CreateDeviceAndSwapChain() - When to use which for making a swap chain?](https://gamedev.stackexchange.com/questions/211780/idxgifactorycreateswapchain-vs-d3d11createdeviceandswapchain-when-to-use-w)
 - [Stack Overflow: Rastertek DirectX11 Tutorials on Windows 10](https://stackoverflow.com/questions/60890417/rastertek-directx11-tutorials-on-windows-10)
-### d3d resource aggregators
+### d3d11 resource aggregators
 - [Chuck Walbourn: Book Recommendations](https://walbourn.github.io/book-recommendations/)
 - [Microsoft/van Bryn, DirectX Developer Blog: Useful Links](https://devblogs.microsoft.com/directx/useful-links/) see Note 36.
 - [Rodolphe Vaillant: Getting started with DirectX 11](https://rodolphe-vaillant.fr/entry/121/getting-started-with-directx-11) see Note 0.
 - [graphicsprogramming.org/resources](https://graphics-programming.org/resources/)
-### d3d software overviews
+### d3d11 software overviews
 - [NVIDIA GameWorks: Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/direct3d_index.htm) see Note 8.
-### d3d tutorials and walkthroughs
+### d3d11 tutorials and walkthroughs
 - [About-prog: DirectX 11 Initialization, First Triangle](https://web.archive.org/web/20211127054316/https://about-prog.com/directx11/direct3d-11-init-and-triangle-rendering) see Notes 1 and 3.
 - [RasterTek - DirectX 11 on Windows 10 tutorials](https://www.rastertek.com/tutdx11win10.html) see Note 4.
 - [BraynzarSoft - DirectX 11 Tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-braynzar-soft-directx-11-tutorials) see Note 5.
@@ -109,7 +109,7 @@ I created this list due to not being able to easily find as much information for
 - [Microsoft: Create a simple Universal Windows Program (UWP) game with DirectX](https://learn.microsoft.com/en-us/windows/uwp/gaming/tutorial--create-your-first-uwp-directx-game)
 - [Anton Gerdelan: Hello Triangle, D3D11 Up and Running](https://antongerdelan.net/opengl/d3d11.html)
 - [LearnD3D11](https://graphicsprogramming.github.io/learnd3d11/)
-### d3d youtube videos
+### d3d11 youtube videos
 - [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1)
 - [ChiliTomatoNoodle: C++ 3D DirectX Tutorial](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD)
 - [daivuk: C++ / DirectX 11 Tutorials](https://www.youtube.com/watch?v=IMXC53ttWGQ&list=PLKmpusAP-J6-XrS52AwBitH39ru3fQEMB) see Note 23, 24 and 26.
@@ -118,7 +118,7 @@ I created this list due to not being able to easily find as much information for
 - [Jpres: C++ DirectX 11 Engine Tutorial](https://www.youtube.com/watch?v=gQIG77PfLgo&list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2&index=1) see Note 25.
 - [Matt Guerrette: DirectX 11 Tutorial Series](https://youtube.com/playlist?list=PL0DPXkWsyQQYv4Zuz0nB0XN3c2MZLeycq&si=bU1Qa5KqXVj_VJa_) see Note 23 and 26.
 - [PardCode: C++ 3D Game Tutorial Series](https://youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy&si=1a_mg2MVHKhIVxH6) see Notes 28 to 30.
-### d3d other webpages
+### d3d11 other webpages
 - [maraneshi: HLSL Constant Buffer Layout Visualizer](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)
 
 # directcompute
