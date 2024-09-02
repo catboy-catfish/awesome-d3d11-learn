@@ -38,12 +38,13 @@ This section brings together resources dedicated to learning how to use Direct3D
 - [LearnD3D11](https://graphicsprogramming.github.io/learnd3d11/)
 - [Microsoft/Balaz: Visual Studio 2015 and Graphics Tools for Windows 10](https://devblogs.microsoft.com/cppblog/visual-studio-2015-and-graphics-tools-for-windows-10/)
 ### chuck walbourn's articles
-Honorable Mention: Chuck Walbourn is a senior software design engineer working at Microsoft Corp. He is intimately familiar with Direct3D 11, has made a lot of repositories with it, answers questions about it on his StackOverflow page and is active in the Direct3D Discord server.
+Honorable Mention: Chuck Walbourn is a senior software design engineer working at Microsoft Corp. He is intimately familiar with DirectX 11, has made a lot of repositories with it, answers questions about it on his StackOverflow page and is active in the DirectX Discord server.
 - [Walbourn: Book Reccomendations](https://walbourn.github.io/book-recommendations/)
 - [Chuck Walbourn: Legacy D3DX on NuGet](https://walbourn.github.io/legacy-d3dx-on-nuget/)
 - [Chuck Walbourn: Where is the DirectX SDK (2021 edition)?](https://walbourn.github.io/where-is-the-directx-sdk-2021-edition/)
 
 ## books
+This section brings together books dedicated to learning Direct3D 11, or otherwise learning computer graphics using Direct3D 11.
 - [Chris Rose: Direct3D Succintly, 2014](https://www.syncfusion.com/ebooks/direct3d) see Note 9
 - [Frank Luna: Introduction to 3D Game Programming with DirectX 11, 2012](https://www.amazon.com/dp/1936420228/ref=cm_sw_em_r_mt_dp_BVS4FbSE0JSRC) see Note 10.
 - [Paul Varcholik: Real-Time 3D Rendering with DirectX 11 and HLSL: A Practical Guide to Graphics Programming (Game Design), 2014](https://www.amazon.com/Real-Time-Rendering-DirectX-HLSL-Programming-ebook/dp/B00K3NR6OC) see Note 11.
@@ -55,9 +56,11 @@ Honorable Mention: Chuck Walbourn is a senior software design engineer working a
 - [Tomas Akenine-Möller, Eric Haines, Naty Hoffman - Real-Time Rendering, 3rd Edition](https://www.amazon.com/Real-Time-Rendering-Tomas-Akenine-Mo-C2-A8ller-ebook-dp-B007COYODQ/dp/B007COYODQ/ref=mt_other?_encoding=UTF8&me=&qid=) see Note 45.
 
 ## courses
+This section brings together paid courses dealing with Direct3D 11.
 - [Udemy, Ole Holthe: DirectX 11 Programming](https://www.udemy.com/course/directx11/?couponCode=SKILLS4SALEA) see Note 14.
 
 ## repositories
+This section brings together repositories on GitHub dealing with Direct3D 11. Note that certain repositories, such as Joseph Whittington's, are no longer available and instead linked via the Internet Archive.
 - [walbourn: directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples) see Notes 42 and 43.
 - [ImGui: Win32 setup](https://github.com/ocornut/imgui/blob/master/examples/example_win32_directx11/main.cpp) see Note 15.
 - [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Codebase](https://web.archive.org/web/20231224115319/https://github.com/josephwhittington/tutorial_1_d3d11_setup) see Note 16.
