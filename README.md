@@ -6,6 +6,7 @@ A curated list designed to aggregate some awesome resources on learning how to u
 I created this list due to not being able to easily find as much information for programming with Direct3D 11 as I could for OpenGL or Vulkan.
 
 # win32 / windowing
+This section brings together resources dedicated to setting up a window with the Win32 API.
 ## articles
 - [Microsoft: Module 1. Your First Windows Program](https://learn.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program)
 - [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Tutorial](https://web.archive.org/web/20231203194918/https://dev.to/josephwhittington/setup-d3d11-in-visual-studio-2019-423g) see Notes 1, 2 and 32.
@@ -17,6 +18,7 @@ I created this list due to not being able to easily find as much information for
 - [SkyVaultGames: Create a Window for your own DirectX Game Engine! | Beginner DirectX Tutorial Part 1](https://youtu.be/7MzKzR1MgNg?si=qnLGJJ4spR_LCoOP) see Notes 23 and 26.
 
 # direct3d 11 general
+This section brings together resources dedicated to learning how to use Direct3D 11.
 ## articles
 - [Rodolphe Vaillant: Getting started with DirectX 11](https://rodolphe-vaillant.fr/entry/121/getting-started-with-directx-11) see Note 0.
 - [About-prog: DirectX 11 Initialization, First Triangle](https://web.archive.org/web/20211127054316/https://about-prog.com/directx11/direct3d-11-init-and-triangle-rendering) see Notes 1 and 3.
@@ -36,6 +38,7 @@ I created this list due to not being able to easily find as much information for
 - [LearnD3D11](https://graphicsprogramming.github.io/learnd3d11/)
 - [Microsoft/Balaz: Visual Studio 2015 and Graphics Tools for Windows 10](https://devblogs.microsoft.com/cppblog/visual-studio-2015-and-graphics-tools-for-windows-10/)
 ### chuck walbourn's articles
+Honorable Mention: Chuck Walbourn is a senior software design engineer working at Microsoft Corp. He is intimately familiar with Direct3D 11, has made a lot of repositories with it, answers questions about it on his StackOverflow page and is active in the Direct3D Discord server.
 - [Walbourn: Book Reccomendations](https://walbourn.github.io/book-recommendations/)
 - [Chuck Walbourn: Legacy D3DX on NuGet](https://walbourn.github.io/legacy-d3dx-on-nuget/)
 - [Chuck Walbourn: Where is the DirectX SDK (2021 edition)?](https://walbourn.github.io/where-is-the-directx-sdk-2021-edition/)
