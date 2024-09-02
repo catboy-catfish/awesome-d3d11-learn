@@ -49,8 +49,6 @@ I hope this helps you as much as it'll help me in the future.
 - [Pooya Elimandar: DirectX 11.1 Game Programming](https://www.amazon.com/dp/184969480X?tag=uuid10-20) see Note 39.
 - [Alexander Osou: Terrain Rendering mit Hardware Tessellation unter DirectX 11: Effiziente Visualisierung von Landschaften in Videospielen und Simulatoren (German Edition)](https://www.amazon.com/Terrain-Rendering-Hardware-Tessellation-DirectX/dp/363963294X/ref=sr_1_6?crid=1ZFCI4QFEJYUM&dib=eyJ2IjoiMSJ9.p_pzkzOr7JmMUaGPoRnqMdu5fWQcV4sejVVbBg5IKM7dGtyZlWGj_ZlyJD0evhc65A_iCiiiQ1VNANbC_up5jqco2SXs_dzwV25XRIiPR9qk4AmeNDPjUpzQkvFBHkIYZPngDGd17hH_3bv-Ioltze_7USTOoDg0JANOSizJrRaj13rMhn1AJsSkTylXp2rY.9Fz__GuNVqLksOUBIRDWxH3V5W-YFvKWA-tiPGnN0s8&dib_tag=se&keywords=directx+11&qid=1724983063&s=books&sprefix=directx+11%2Cstripbooks-intl-ship%2C264&sr=1-6) see Note 40.
 - [Tomas Akenine-Möller, Eric Haines, Naty Hoffman - Real-Time Rendering, 3rd Edition](https://www.amazon.com/Real-Time-Rendering-Tomas-Akenine-Mo-C2-A8ller-ebook-dp-B007COYODQ/dp/B007COYODQ/ref=mt_other?_encoding=UTF8&me=&qid=) see Note 45.
-### compute shaders
-- [David H. Eberly: GPGPU Programming for Games and Science](https://www.amazon.com/GPGPU-Programming-Games-Science-Eberly/dp/1466595353/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9._ez2TWGt8iVv0szQCu9ia6WsjYrCMkJx4QbKXeb3zh8ci9wPebXat6yzzA6bE2F8.tFH73CParScUSVYx2QHJV-vMqnRTsIQZegE4hcb67AU&qid=1724982940&sr=1-1-catcorr) see Note 40.
 
 ## courses
 - [Udemy, Ole Holthe: DirectX 11 Programming](https://www.udemy.com/course/directx11/?couponCode=SKILLS4SALEA) see Note 14.
@@ -95,6 +93,8 @@ I hope this helps you as much as it'll help me in the future.
 - [Microsoft: Compute Shader Specifications](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#18.1%20Compute%20Shader%20Instruction%20Set)
 - [Microsoft: How to Create a Compute Shader](https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-compute-create)
 - [Daniel Moth: DirectCompute](http://www.danielmoth.com/Blog/DirectCompute.aspx)
+## books
+- [David H. Eberly: GPGPU Programming for Games and Science](https://www.amazon.com/GPGPU-Programming-Games-Science-Eberly/dp/1466595353/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9._ez2TWGt8iVv0szQCu9ia6WsjYrCMkJx4QbKXeb3zh8ci9wPebXat6yzzA6bE2F8.tFH73CParScUSVYx2QHJV-vMqnRTsIQZegE4hcb67AU&qid=1724982940&sr=1-1-catcorr) see Note 40.
 ## threads
 - [Game Development Stack Exchange: Need an example of an HLSL compute shader](https://gamedev.stackexchange.com/questions/128684/need-an-example-of-a-hlsl-compute-shader/1287060)
 ## youtube
