@@ -5,8 +5,6 @@
 A curated list designed to aggregate some awesome resources on learning how to use the Direct3D 11 graphics API.
 I created this list due to not being able to easily find as much information for programming with Direct3D 11 as I could for OpenGL or Vulkan.
 
-I hope this helps you as much as it'll help me in the future.
-
 # win32 / windowing
 ## articles
 - [Microsoft: Module 1. Your First Windows Program](https://learn.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program)
@@ -150,4 +148,4 @@ I hope this helps you as much as it'll help me in the future.
 44. PardCode. This tutorial series isn't for DirectX, it's for OpenGL, but this episode in particular doesn't deal with OpenGL in any way. It can be thought of as a refactored version of PardCode's DirectX tutorial.
 45. Tomas Akenine-Möller, Eric Haines, Naty Hoffman. Highest price: $12.68 hardcover. Doesn't cover DirectX 11 in particular, it's more about computer graphics in general, but apparently it does use D3D11.
 
-If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue!
+If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue! I hope this helps you as much as it'll help me in the future.
