@@ -94,11 +94,12 @@ I created this list due to not being able to easily find as much information for
 ## webpages
 ### online threads
 - [Game Development Stack Exchange: Need an example of an HLSL compute shader](https://gamedev.stackexchange.com/questions/128684/need-an-example-of-a-hlsl-compute-shader/1287060)
+### resource aggregators
+- [Daniel Moth: DirectCompute](http://www.danielmoth.com/Blog/DirectCompute.aspx)
 ### tutorials and walkthroughs
 - [Coding Labs: DirectCompute Tutorial](http://www.codinglabs.net/tutorial_compute_shaders_filters.aspx) see Notes 1 and 5
 - [Microsoft: Compute Shader Specifications](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#18.1%20Compute%20Shader%20Instruction%20Set)
 - [Microsoft: How to Create a Compute Shader](https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-compute-create)
-- [Daniel Moth: DirectCompute](http://www.danielmoth.com/Blog/DirectCompute.aspx)
 ### youtube videos
 - [4C Conference, Compute Shaders: Optimize Your Engine Using Compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg)
 ### other webpages
