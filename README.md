@@ -11,8 +11,9 @@ I created this list due to not being able to easily find as much information for
 
 - [win32 / windowing](#win32-/-windowing)
 - [direct3d 11 general](#direct3d-11-general)
-[directcompute](#directcompute)
+- [directcompute](#directcompute)
 
+- [notes](#notes)
 
 ---
 
