@@ -28,7 +28,13 @@ I created this list due to not being able to easily find as much information for
     - [youtube videos](#d3d11-youtube-videos)
     - [other webpages](#d3d11-other-webpages)
 - [directcompute](#directcompute)
-
+  - [books](#dc-books)
+  - [webpages](#dc-webpages)
+    - [online threads](#dc-online-threads)
+    - [resource aggregators](#dc-resource-aggregators)
+    - [tutorials and walkthroughs](#dc-tutorials-and-walkthroughs)
+    - [youtube videos](#dc-youtube-videos)
+    - [other webpages](#dc-other-webpages)
 - [notes](#notes)
 
 ---
@@ -122,6 +128,8 @@ I created this list due to not being able to easily find as much information for
 - [maraneshi: HLSL Constant Buffer Layout Visualizer](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)
 
 # directcompute
+## dc books
+- [David H. Eberly: GPGPU Programming for Games and Science](https://www.amazon.com/GPGPU-Programming-Games-Science-Eberly/dp/1466595353/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9._ez2TWGt8iVv0szQCu9ia6WsjYrCMkJx4QbKXeb3zh8ci9wPebXat6yzzA6bE2F8.tFH73CParScUSVYx2QHJV-vMqnRTsIQZegE4hcb67AU&qid=1724982940&sr=1-1-catcorr) see Note 40.
 ## dc webpages
 ### dc online threads
 - [Game Development Stack Exchange: Need an example of an HLSL compute shader](https://gamedev.stackexchange.com/questions/128684/need-an-example-of-a-hlsl-compute-shader/1287060)
@@ -135,8 +143,6 @@ I created this list due to not being able to easily find as much information for
 - [4C Conference, Compute Shaders: Optimize Your Engine Using Compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg)
 ### dc other webpages
 - [Momme Allalen, Alan Gray, Nevena Ilieva, Anders Sjöström: GPGPU Best Practice Guide, 2017](https://www.researchgate.net/publication/314118681_Best_Practice_Guide_-_GPGPU)
-## dc books
-- [David H. Eberly: GPGPU Programming for Games and Science](https://www.amazon.com/GPGPU-Programming-Games-Science-Eberly/dp/1466595353/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9._ez2TWGt8iVv0szQCu9ia6WsjYrCMkJx4QbKXeb3zh8ci9wPebXat6yzzA6bE2F8.tFH73CParScUSVYx2QHJV-vMqnRTsIQZegE4hcb67AU&qid=1724982940&sr=1-1-catcorr) see Note 40.
 
 # notes
 0. Rodolphe Vaillant. This article is where most of the links came from.
