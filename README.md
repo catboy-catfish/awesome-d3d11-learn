@@ -10,9 +10,12 @@ I created this list due to not being able to easily find as much information for
 # table of contents
 
 - [win32 / windowing](#win32-/-windowing)
-  - [repositories](#repositories)
+  - [repositories](#w32-repositories)
 - [direct3d 11 general](#direct3d-11-general)
-  - [repositories](#repositories)
+  - [books](#d3d11-books)
+  - [courses](#d3d11-courses)
+  - [repositories](#d3d11-repositories)
+    - [utilities](#d3d11-utilities)
 - [directcompute](#directcompute)
 
 - [notes](#notes)
