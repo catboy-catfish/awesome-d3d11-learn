@@ -20,6 +20,13 @@ I created this list due to not being able to easily find as much information for
   - [repositories](#d3d11-repositories)
     - [utilities](#d3d11-utilities)
   - [webpages](#d3d-webpages)
+    - [blog posts](#d3d11-blog-posts)
+    - [online threads](#d3d11-online-threads)
+    - [resource aggregators](#d3d11-resource-aggregators)
+    - [software overviews](#d3d11-software-overviews)
+    - [tutorials and walkthroughs](#d3d11-tutorials-and-walkthroughs)
+    - [youtube videos](#d3d11-youtube-videos)
+    - [other webpages](#d3d11-other-webpages)
 - [directcompute](#directcompute)
 
 - [notes](#notes)
