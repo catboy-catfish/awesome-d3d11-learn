@@ -6,21 +6,30 @@ A curated list designed to aggregate some awesome resources on learning how to u
 I created this list due to not being able to easily find as much information for programming with Direct3D 11 as I could for OpenGL or Vulkan.
 
 # win32 / windowing
-This section brings together resources dedicated to setting up a window with the Win32 API.
 ## repositories
 - [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window)
 ## webpages
+### tutorials and walkthroughs
 - [Microsoft: Module 1. Your First Windows Program](https://learn.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program)
 - [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Tutorial](https://web.archive.org/web/20231203194918/https://dev.to/josephwhittington/setup-d3d11-in-visual-studio-2019-423g) see Notes 1, 2 and 32.
-### youtube
+### youtube videos
 - [Aerideus: Creating a Window using C++ and Win32 | Tutorial](https://www.youtube.com/watch?v=Kx5CN-V6FvQ&t=0s) see Note 33.
 - [PardCode: C++ OpenGL 3D Game Tutorial 1, Making the Window with the Win32 API](https://www.youtube.com/watch?v=jHcz22MDPeE&list=PLv8DnRaQOs5-TyYnF56YghOxQBNr1VVmF) see Note 44.
 - [SkyVaultGames: Create a Window for your own DirectX Game Engine! | Beginner DirectX Tutorial Part 1](https://youtu.be/7MzKzR1MgNg?si=qnLGJJ4spR_LCoOP) see Notes 23 and 26.
 
 # direct3d 11 general
-This section brings together resources dedicated to learning how to use Direct3D 11.
-## articles
+## webpages
+### blog posts
+- [Microsoft/Balaz: Visual Studio 2015 and Graphics Tools for Windows 10](https://devblogs.microsoft.com/cppblog/visual-studio-2015-and-graphics-tools-for-windows-10/)
+- [Chuck Walbourn: Legacy D3DX on NuGet](https://walbourn.github.io/legacy-d3dx-on-nuget/)
+- [Chuck Walbourn: Where is the DirectX SDK (2021 edition)?](https://walbourn.github.io/where-is-the-directx-sdk-2021-edition/)
+### resource aggregators
+- [Chuck Walbourn: Book Recommendations](https://walbourn.github.io/book-recommendations/)
+- [Microsoft/van Bryn, DirectX Developer Blog: Useful Links](https://devblogs.microsoft.com/directx/useful-links/) see Note 36.
 - [Rodolphe Vaillant: Getting started with DirectX 11](https://rodolphe-vaillant.fr/entry/121/getting-started-with-directx-11) see Note 0.
+### software overviews
+- [NVIDIA GameWorks: Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/direct3d_index.htm) see Note 8.
+### tutorials and walkthroughs
 - [About-prog: DirectX 11 Initialization, First Triangle](https://web.archive.org/web/20211127054316/https://about-prog.com/directx11/direct3d-11-init-and-triangle-rendering) see Notes 1 and 3.
 - [RasterTek - DirectX 11 on Windows 10 tutorials](https://www.rastertek.com/tutdx11win10.html) see Note 4.
 - [BraynzarSoft - DirectX 11 Tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-braynzar-soft-directx-11-tutorials) see Note 5.
@@ -28,23 +37,25 @@ This section brings together resources dedicated to learning how to use Direct3D
 - [3dgep: Texturing and Lighting in DirectX 11](https://www.3dgep.com/texturing-lighting-directx-11/)
 - [3dgep: Forward vs Deferred vs Forward+ Rendering with DirectX 11](https://www.3dgep.com/forward-plus/) see Note 6.
 - [TutorialsPoint: DirectX](https://www.tutorialspoint.com/directx/index.htm) see Note 7.
-- [NVIDIA GameWorks: Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/direct3d_index.htm) see Note 8.
 - [Microsoft: D3D11 Programming Guide](https://docs.microsoft.com/en-us/windows/win32/direct3d11/dx-graphics-overviews)
 - [Microsoft: D3D11 API Reference](https://docs.microsoft.com/en-us/windows/win32/direct3d11/atoc-d3d11-graphics-reference)
-- [Microsoft/van Bryn, DirectX Developer Blog: Useful Links](https://devblogs.microsoft.com/directx/useful-links/) see Note 36.
 - [Microsoft: Create a simple Universal Windows Program (UWP) game with DirectX](https://learn.microsoft.com/en-us/windows/uwp/gaming/tutorial--create-your-first-uwp-directx-game)
-- [maraneshi: HLSL Constant Buffer Layout Visualizer](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)
 - [Anton Gerdelan: Hello Triangle, D3D11 Up and Running](https://antongerdelan.net/opengl/d3d11.html)
 - [LearnD3D11](https://graphicsprogramming.github.io/learnd3d11/)
 - [Microsoft/Balaz: Visual Studio 2015 and Graphics Tools for Windows 10](https://devblogs.microsoft.com/cppblog/visual-studio-2015-and-graphics-tools-for-windows-10/)
-### chuck walbourn's articles
-Honorable Mention: Chuck Walbourn is a senior software design engineer working at Microsoft Corp. He is intimately familiar with DirectX 11, has made a lot of repositories with it, answers questions about it on his StackOverflow page and is active in the DirectX Discord server.
-- [Walbourn: Book Reccomendations](https://walbourn.github.io/book-recommendations/)
-- [Chuck Walbourn: Legacy D3DX on NuGet](https://walbourn.github.io/legacy-d3dx-on-nuget/)
-- [Chuck Walbourn: Where is the DirectX SDK (2021 edition)?](https://walbourn.github.io/where-is-the-directx-sdk-2021-edition/)
+### youtube videos
+- [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1)
+- [ChiliTomatoNoodle: C++ 3D DirectX Tutorial](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD)
+- [daivuk: C++ / DirectX 11 Tutorials](https://www.youtube.com/watch?v=IMXC53ttWGQ&list=PLKmpusAP-J6-XrS52AwBitH39ru3fQEMB) see Note 23, 24 and 26.
+- [Hilze Vonck: Deferred Rendering / Shading Tutorial DirectX11](https://youtu.be/2ThW4Gz6oYM?si=wFV-EpiqQ2uHwjGQ)
+- [iGunSlingeRv2: C++ DirectX 11 Tutorial](https://youtube.com/playlist?list=PLuepR07d9noUHvSQ98T0gxNQOvWBLfQGh&si=QVDO9PjYlScJkX2q) see Note 35.
+- [Jpres: C++ DirectX 11 Engine Tutorial](https://www.youtube.com/watch?v=gQIG77PfLgo&list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2&index=1) see Note 25.
+- [Matt Guerrette: DirectX 11 Tutorial Series](https://youtube.com/playlist?list=PL0DPXkWsyQQYv4Zuz0nB0XN3c2MZLeycq&si=bU1Qa5KqXVj_VJa_) see Note 23 and 26.
+- [PardCode: C++ 3D Game Tutorial Series](https://youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy&si=1a_mg2MVHKhIVxH6) see Notes 28 to 30.
+### other webpages
+- [maraneshi: HLSL Constant Buffer Layout Visualizer](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)
 
 ## books
-This section brings together books dedicated to learning Direct3D 11, or otherwise learning computer graphics using Direct3D 11.
 - [Chris Rose: Direct3D Succintly, 2014](https://www.syncfusion.com/ebooks/direct3d) see Note 9
 - [Frank Luna: Introduction to 3D Game Programming with DirectX 11, 2012](https://www.amazon.com/dp/1936420228/ref=cm_sw_em_r_mt_dp_BVS4FbSE0JSRC) see Note 10.
 - [Paul Varcholik: Real-Time 3D Rendering with DirectX 11 and HLSL: A Practical Guide to Graphics Programming (Game Design), 2014](https://www.amazon.com/Real-Time-Rendering-DirectX-HLSL-Programming-ebook/dp/B00K3NR6OC) see Note 11.
@@ -56,11 +67,9 @@ This section brings together books dedicated to learning Direct3D 11, or otherwi
 - [Tomas Akenine-Möller, Eric Haines, Naty Hoffman - Real-Time Rendering, 3rd Edition](https://www.amazon.com/Real-Time-Rendering-Tomas-Akenine-Mo-C2-A8ller-ebook-dp-B007COYODQ/dp/B007COYODQ/ref=mt_other?_encoding=UTF8&me=&qid=) see Note 45.
 
 ## courses
-This section brings together paid courses dealing with Direct3D 11.
 - [Udemy, Ole Holthe: DirectX 11 Programming](https://www.udemy.com/course/directx11/?couponCode=SKILLS4SALEA) see Note 14.
 
 ## repositories
-This section brings together repositories on GitHub dealing with Direct3D 11. Note that certain repositories, such as Joseph Whittington's, are no longer available and instead linked via the Internet Archive.
 - [walbourn: directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples) see Notes 42 and 43.
 - [ImGui: Win32 setup](https://github.com/ocornut/imgui/blob/master/examples/example_win32_directx11/main.cpp) see Note 15.
 - [Joseph Whittington: Basic DirectX 11 tutorial, Visual Studio 2019, Win32 Window API Codebase](https://web.archive.org/web/20231224115319/https://github.com/josephwhittington/tutorial_1_d3d11_setup) see Note 16.
@@ -82,17 +91,6 @@ This section brings together repositories on GitHub dealing with Direct3D 11. No
 - [Game Development Stack Exchange: How to properly handle errors in a D3D11 framework?](https://gamedev.stackexchange.com/questions/16732/how-to-properly-handle-errors-in-a-d3d11-framework)
 - [Game Development Stack Exchange: IDXGIFactory::CreateSwapChain() vs D3D11CreateDeviceAndSwapChain() - When to use which for making a swap chain?](https://gamedev.stackexchange.com/questions/211780/idxgifactorycreateswapchain-vs-d3d11createdeviceandswapchain-when-to-use-w)
 - [Stack Overflow: Rastertek DirectX11 Tutorials on Windows 10](https://stackoverflow.com/questions/60890417/rastertek-directx11-tutorials-on-windows-10)
-
-## youtube
-- [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1)
-- [ChiliTomatoNoodle: C++ 3D DirectX Tutorial](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD)
-- [daivuk: C++ / DirectX 11 Tutorials](https://www.youtube.com/watch?v=IMXC53ttWGQ&list=PLKmpusAP-J6-XrS52AwBitH39ru3fQEMB) see Note 23, 24 and 26.
-- [Hilze Vonck: Deferred Rendering / Shading Tutorial DirectX11](https://youtu.be/2ThW4Gz6oYM?si=wFV-EpiqQ2uHwjGQ)
-- [iGunSlingeRv2: C++ DirectX 11 Tutorial](https://youtube.com/playlist?list=PLuepR07d9noUHvSQ98T0gxNQOvWBLfQGh&si=QVDO9PjYlScJkX2q) see Note 35.
-- [Jpres: C++ DirectX 11 Engine Tutorial](https://www.youtube.com/watch?v=gQIG77PfLgo&list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2&index=1) see Note 25.
-- [Matt Guerrette: DirectX 11 Tutorial Series](https://youtube.com/playlist?list=PL0DPXkWsyQQYv4Zuz0nB0XN3c2MZLeycq&si=bU1Qa5KqXVj_VJa_) see Note 23 and 26.
-- [PardCode: C++ 3D Game Tutorial Series](https://youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy&si=1a_mg2MVHKhIVxH6) see Notes 28 to 30.
-
 
 # directcompute
 ## articles
