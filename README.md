@@ -25,6 +25,7 @@ I hope this helps you as much as it'll help me in the future.
 - [maraneshi: HLSL Constant Buffer Layout Visualizer](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)
 - [Chuck Walbourn: Legacy D3DX on NuGet](https://walbourn.github.io/legacy-d3dx-on-nuget/)
 - [Chuck Walbourn: Where is the DirectX SDK (2021 edition)?](https://walbourn.github.io/where-is-the-directx-sdk-2021-edition/)
+- [Anton Gerdelan: Hello Triangle, D3D11 Up and Running](https://antongerdelan.net/opengl/d3d11.html)
 ### compute shaders
 - [Coding Labs: DirectCompute Tutorial](http://www.codinglabs.net/tutorial_compute_shaders_filters.aspx) see Notes 1 and 5
 - [Momme Allalen, Alan Gray, Nevena Ilieva, Anders Sjöström: GPGPU Best Practice Guide, 2017](https://www.researchgate.net/publication/314118681_Best_Practice_Guide_-_GPGPU)
