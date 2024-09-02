@@ -11,11 +11,15 @@ I created this list due to not being able to easily find as much information for
 
 - [win32 / windowing](#win32-/-windowing)
   - [repositories](#w32-repositories)
+  - [webpages](#w32-webpages)
+    - [tutorials and walkthroughs](#w32-tutorials-and-walkthroughs)
+    - [youtube videos](#w32-youtube-videos)
 - [direct3d 11 general](#direct3d-11-general)
   - [books](#d3d11-books)
   - [courses](#d3d11-courses)
   - [repositories](#d3d11-repositories)
     - [utilities](#d3d11-utilities)
+  - [webpages](#d3d-webpages)
 - [directcompute](#directcompute)
 
 - [notes](#notes)
