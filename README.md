@@ -117,7 +117,7 @@ I created this list due to not being able to easily find as much information for
 - [LearnD3D11](https://graphicsprogramming.github.io/learnd3d11/)
 ### d3d11 youtube videos
 - [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1)
-- [ChiliTomatoNoodle: C++ 3D DirectX Tutorial](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD)
+- [ChiliTomatoNoodle: C++ 3D DirectX Tutorial](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) see Note 22.
 - [daivuk: C++ / DirectX 11 Tutorials](https://www.youtube.com/watch?v=IMXC53ttWGQ&list=PLKmpusAP-J6-XrS52AwBitH39ru3fQEMB) see Note 23, 24 and 26.
 - [Hilze Vonck: Deferred Rendering / Shading Tutorial DirectX11](https://youtu.be/2ThW4Gz6oYM?si=wFV-EpiqQ2uHwjGQ)
 - [iGunSlingeRv2: C++ DirectX 11 Tutorial](https://youtube.com/playlist?list=PLuepR07d9noUHvSQ98T0gxNQOvWBLfQGh&si=QVDO9PjYlScJkX2q) see Note 35.
