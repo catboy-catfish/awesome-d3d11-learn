@@ -9,7 +9,7 @@ I created this list due to not being able to easily find as much information for
 
 # table of contents
 
-- [win32 / windowing](#win32-/-windowing)
+- [win32 / windowing](#win32--windowing)
   - [repositories](#w32-repositories)
   - [webpages](#w32-webpages)
     - [tutorials and walkthroughs](#w32-tutorials-and-walkthroughs)
