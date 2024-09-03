@@ -115,6 +115,7 @@ I created this list due to not being able to easily find as much information for
 - [Microsoft: Create a simple Universal Windows Program (UWP) game with DirectX](https://learn.microsoft.com/en-us/windows/uwp/gaming/tutorial--create-your-first-uwp-directx-game)
 - [Anton Gerdelan: Hello Triangle, D3D11 Up and Running](https://antongerdelan.net/opengl/d3d11.html)
 - [LearnD3D11](https://graphicsprogramming.github.io/learnd3d11/) see Note 46.
+- [DirectXTutorials](http://www.directxtutorial.com/default.aspx) see Note 47.
 ### d3d11 youtube videos
 - [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1)
 - [ChiliTomatoNoodle: C++ 3D DirectX Tutorial](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) see Note 22.
@@ -147,25 +148,25 @@ I created this list due to not being able to easily find as much information for
 # notes
 0. Rodolphe Vaillant. This article is where most of the links came from.
 1. Requires the obsolete DirectX SDK.
-2. Joseph Whittington. Pretty bad.
-3. About-prog. Doesn't cover windowing or any full code samples, it's just a guide on how to use the Direct3D 11 API.
+2. Pretty bad.
+3. Doesn't cover windowing or any full code samples, it's just a guide on how to use the Direct3D 11 API.
 4. RasterTek. Deals with a lot of stuff very relevant to game development, but the code is hideous. Previously required the obsolete DirectX SDK, but it has recently been updated to remove that requirement and upgrade the project to Visual Studio 2022.
 5. Uses Visual Studio 2010.
-6. 3dgep. Includes code samples throughout, though not the complete source code at the end.
-7. TutorialsPoint. You should probably avoid this one. An unstructured heap of random DirectX documentation without any samples or examples.
+6. Includes code samples throughout, though not the complete source code at the end.
+7. You should probably avoid this one. An unstructured heap of random DirectX documentation without any samples or examples.
 8. NVIDIA GameWorks. They have explanations, but I haven't found the source code yet.
-9. Chris Rose. Free ebook. Requires Visual Studio 2012 in order to follow. The ebook can either be downloaded or read online.
+9. Chris Rose. Free ebook. Requires Visual Studio 2012 in order to follow with minimum hassle. The ebook can either be downloaded or read online.
 10. Frank D. Luna. Highest price: $49.99 paperback. Quite old, code may not work on modern systems like Windows 10/11 or Visual Studio 2019/2022. It also requires the obsolete effects framework, however there's a more up-to-date version of the codebase at d3dcoder.net
 11. Paul Varcholik. Highest price: $179.32 paperback. Also relies on outdated tools and doesn't show the entire code of each sample, however [the companion site](https://bitbucket.org/pvarcholik/real-time-3d-rendering-with-directx-and-hlsl/src/master/) provides code samples updated to support Visual Studio 2022.
 12. Jason Zink and Matt Pettineo. Highest price: $170.00 hardcover.
 13. Doron Feinstein. Highest price: $54.99 paperback.
 14. Ole Holthe. Highest price: $39.99. Outdated, uses Visual Studio 2010 but also contains a chapter for converting to Visual Studio 2012.
-15. ImGui. Example implementation of ImGui into a Win32 DirectX 11 application.
+15. Example implementation of ImGui into a Win32 DirectX 11 application.
 16. Joseph Whittington. Archive of the repository for his tutorial.
 17. Uses Visual Studio 2015.
-18. Chuck Walbourn. Documentation in the Readme.docx file.
+18. Documentation in the Readme.docx file.
 19. Uses Visual Studio 2019.
-20. Microsoft/Walbourn. Should work with Visual Studio 2022 if you don't retarget it.
+20. Should work with Visual Studio 2022 if you don't retarget it.
 21. Avoyd. Tutorial series on setting up runtime-compiled-C++ to use ImGui with DirectX 11.
 22. ChiliTomatoNoodle. Focuses a lot more on the explanation but does some coding as well. Warning that tons of the code was written intentionally before recording, an example of which being episode 4 "Window Messages".
 23. Seemingly abandoned.
@@ -177,19 +178,20 @@ I created this list due to not being able to easily find as much information for
 29. Works with Visual Studio 2022.
 30. PardCode. Warning that some of the code was written accidentally before recording, an example of which being on episode 5 "Drawing a Triangle".
 31. Matt77hias. Port of the old RasterTek DirectX 11 tutorials for Visual Studio 2017.
-32. Joseph Whittington. Used the Internet Archive Wayback Machine to get this page back because it's no longer available. If this is an archive of a GitHub link, don't bother trying to clone it.
-33. Aerideus. Not intended to be a DirectX 11 tutorial, but Aerideus briefly mentions DirectX at the start. Their explanation of deleting the copy constructor and equals operator can help you towards understanding why ChiliTomatoNoodle does the same thing in his episode 6 "Window Framework".
+32. Used the Internet Archive Wayback Machine to get this page back because it's no longer available. If this is an archive of a GitHub link, don't bother trying to clone it.
+33. Not intended to be a DirectX 11 tutorial, but Aerideus briefly mentions DirectX near the start. Their explanation of deleting the copy constructor and equals operator can help you towards understanding why ChiliTomatoNoodle does the same thing in his episode 6 "Window Framework".
 34. Doron Feinstein. Most cost-effective book I have about DirectX 11, but it has mixed reviews due to its sometimes worthless techniques presented and lack of proofreading.
-36. iGunSlingeRv2. Uses pretty bad coding practices, such as "using namespace std."
-37. The links here are more geared towards Direct3D 12 developers, but they could probably provide value to Direct3D 11 developers as well.
-38. Justin Stenning. Highest price: $62.99 paperback.
-39. Pooya Elimandar. Highest price: $39.99 paperback.
-40. David H. Eberly. Highest price: $143.53 hardcover.
-41. Alexander Osou. In German. Highest price: $60.49 paperback.
-42. DirectX SDK Samples. Go into Direct3D11Tutorials to find the tutorials.
-43. DirectX SDK Samples. Go into BasicCompute11 to find a basic example of compute shaders.
-44. PardCode. This tutorial series isn't for DirectX, it's for OpenGL, but this episode in particular doesn't deal with OpenGL in any way. It can be thought of as a refactored version of PardCode's DirectX tutorial.
-45. Tomas Akenine-Möller, Eric Haines, Naty Hoffman. Highest price: $12.68 hardcover. Doesn't cover DirectX 11 in particular, it's more about computer graphics in general, but apparently it does use D3D11.
-46. Graphics Programming Learn DX11. Uses GLFW for some reason.
+35. Uses pretty bad coding practices, such as "using namespace std."
+36. The links here are more geared towards Direct3D 12 developers, but they could probably provide value to Direct3D 11 developers as well.
+37. Justin Stenning. Highest price: $62.99 paperback.
+38. Pooya Elimandar. Highest price: $39.99 paperback.
+39. David H. Eberly. Highest price: $143.53 hardcover.
+40. Alexander Osou. In German. Highest price: $60.49 paperback.
+41. DirectX SDK Samples. Go into Direct3D11Tutorials to find the tutorials.
+42. DirectX SDK Samples. Go into BasicCompute11 to find a basic example of compute shaders.
+43. PardCode. This tutorial series isn't for DirectX, it's for OpenGL, but this episode in particular doesn't deal with OpenGL in any way. It can be thought of as a refactored version of PardCode's DirectX tutorial.
+44. Tomas Akenine-Möller, Eric Haines, Naty Hoffman. Highest price: $12.68 hardcover. Doesn't cover DirectX 11 in particular, it's more about computer graphics in general, but apparently it does use D3D11.
+45. Uses GLFW for some reason.
+46. Has tutorials geared towards Direct3D 11/11.1/11.2 as well as Direct3D 9. The most useful stuff (e.g. textures, meshes, display, input etc) is locked behind a $50 payment, but there are free resources as well.
 
 If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue! I hope this helps you as much as it'll help me in the future.
