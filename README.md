@@ -180,7 +180,7 @@ I created this list due to not being able to easily find as much information for
 31. Matt77hias. Port of the old RasterTek DirectX 11 tutorials for Visual Studio 2017.
 32. Used the Internet Archive Wayback Machine to get this page back because it's no longer available. If this is an archive of a GitHub link, don't bother trying to clone it.
 33. Not intended to be a DirectX 11 tutorial, but Aerideus briefly mentions DirectX near the start. Their explanation of deleting the copy constructor and equals operator can help you towards understanding why ChiliTomatoNoodle does the same thing in his episode 6 "Window Framework".
-34. Doron Feinstein. Most cost-effective book I have about DirectX 11, but it has mixed reviews due to its sometimes worthless techniques presented and lack of proofreading.
+34. Doron Feinstein. Highest price: $54.99 paperback. Most cost-effective book I have about DirectX 11, but it has mixed reviews due to its sometimes worthless techniques presented and lack of proofreading.
 35. Uses pretty bad coding practices, such as "using namespace std."
 36. The links here are more geared towards Direct3D 12 developers, but they could probably provide value to Direct3D 11 developers as well.
 37. Justin Stenning. Highest price: $62.99 paperback.
