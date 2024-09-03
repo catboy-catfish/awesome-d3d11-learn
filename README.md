@@ -114,7 +114,7 @@ I created this list due to not being able to easily find as much information for
 - [Microsoft: D3D11 API Reference](https://docs.microsoft.com/en-us/windows/win32/direct3d11/atoc-d3d11-graphics-reference)
 - [Microsoft: Create a simple Universal Windows Program (UWP) game with DirectX](https://learn.microsoft.com/en-us/windows/uwp/gaming/tutorial--create-your-first-uwp-directx-game)
 - [Anton Gerdelan: Hello Triangle, D3D11 Up and Running](https://antongerdelan.net/opengl/d3d11.html)
-- [LearnD3D11](https://graphicsprogramming.github.io/learnd3d11/)
+- [LearnD3D11](https://graphicsprogramming.github.io/learnd3d11/) see Note 46.
 ### d3d11 youtube videos
 - [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1)
 - [ChiliTomatoNoodle: C++ 3D DirectX Tutorial](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) see Note 22.
@@ -190,5 +190,6 @@ I created this list due to not being able to easily find as much information for
 43. DirectX SDK Samples. Go into BasicCompute11 to find a basic example of compute shaders.
 44. PardCode. This tutorial series isn't for DirectX, it's for OpenGL, but this episode in particular doesn't deal with OpenGL in any way. It can be thought of as a refactored version of PardCode's DirectX tutorial.
 45. Tomas Akenine-Möller, Eric Haines, Naty Hoffman. Highest price: $12.68 hardcover. Doesn't cover DirectX 11 in particular, it's more about computer graphics in general, but apparently it does use D3D11.
+46. Graphics Programming Learn DX11. Uses GLFW for some reason.
 
 If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue! I hope this helps you as much as it'll help me in the future.
