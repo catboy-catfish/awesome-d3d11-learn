@@ -154,7 +154,7 @@ I created this list due to not being able to easily find as much information for
 7. You should probably avoid this one. An unstructured heap of random DirectX documentation without any samples or examples.
 8. NVIDIA GameWorks. They have explanations, but I haven't found the source code yet.
 9. Chris Rose. Free ebook. Requires Visual Studio 2012 in order to follow with minimum hassle. The ebook can either be downloaded or read online.
-10. Frank D. Luna. Highest price: $49.99 paperback. Quite old, code may not work on modern systems like Windows 10/11 or Visual Studio 2019/2022. It also requires the obsolete effects framework, however there's a more up-to-date version of the codebase at d3dcoder.net
+10. Frank D. Luna. Highest price: $49.99 paperback. Quite old, code may not work on modern systems like Windows 10/11 or Visual Studio 2019/2022. It also requires the obsolete effects framework, however a more up-to-date version of the code is available at [the author's website.](http://www.d3dcoder.net)
 11. Paul Varcholik. Highest price: $179.32 paperback. Also relies on outdated tools and doesn't show the entire code of each sample, however [the companion site](https://bitbucket.org/pvarcholik/real-time-3d-rendering-with-directx-and-hlsl/src/master/) provides code samples updated to support Visual Studio 2022.
 12. Jason Zink and Matt Pettineo. Highest price: $170.00 hardcover.
 13. Doron Feinstein. Highest price: $54.99 paperback.
