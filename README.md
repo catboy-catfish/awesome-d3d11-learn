@@ -125,6 +125,7 @@ I created this list due to not being able to easily find as much information for
 - [Jpres: C++ DirectX 11 Engine Tutorial](https://www.youtube.com/watch?v=gQIG77PfLgo&list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2&index=1) see Note 25.
 - [Matt Guerrette: DirectX 11 Tutorial Series](https://youtube.com/playlist?list=PL0DPXkWsyQQYv4Zuz0nB0XN3c2MZLeycq&si=bU1Qa5KqXVj_VJa_) see Note 23 and 26.
 - [PardCode: C++ 3D Game Tutorial Series](https://youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy&si=1a_mg2MVHKhIVxH6) see Notes 28 to 30.
+- [Samuli Natri: DirectX 11 tutorials](https://youtube.com/playlist?list=PLCOe2mg1ZXrn5rL4__xVwCO9NarhVdxPn&si=cgl1wB2-qhmWLGZw)
 ### d3d11 other webpages
 - [maraneshi: HLSL Constant Buffer Layout Visualizer](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)
 
