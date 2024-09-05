@@ -39,7 +39,6 @@ I created this list due to not being able to easily find as much information for
 
 ---
 
-
 # win32 / windowing
 ## w32 repositories
 - [brainexcerpts: winAPI_basic_window](https://github.com/brainexcerpts/winAPI_basic_window)
@@ -141,8 +140,6 @@ I created this list due to not being able to easily find as much information for
 - [Coding Labs: DirectCompute Tutorial](http://www.codinglabs.net/tutorial_compute_shaders_filters.aspx) see Notes 1 and 5
 - [Microsoft: Compute Shader Specifications](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#18.1%20Compute%20Shader%20Instruction%20Set)
 - [Microsoft: How to Create a Compute Shader](https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-compute-create)
-### dc youtube videos
-- [4C Conference, Compute Shaders: Optimize Your Engine Using Compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg)
 ### dc other webpages
 - [Momme Allalen, Alan Gray, Nevena Ilieva, Anders Sjöström: GPGPU Best Practice Guide, 2017](https://www.researchgate.net/publication/314118681_Best_Practice_Guide_-_GPGPU)
 
