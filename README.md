@@ -192,7 +192,7 @@ I created this list due to not being able to easily find as much information for
 42. DirectX SDK Samples. Go into BasicCompute11 to find a basic example of compute shaders.
 43. PardCode. This tutorial series isn't for DirectX, it's for OpenGL, but this episode in particular doesn't deal with OpenGL in any way. It can be thought of as a refactored version of PardCode's DirectX tutorial.
 44. Tomas Akenine-Möller, Eric Haines, Naty Hoffman. Highest price: $12.68 hardcover. Doesn't cover DirectX 11 in particular, it's more about computer graphics in general, but apparently it does use D3D11.
-45. Uses GLFW for some reason.
+45. Creators thought it would be a good idea to use GLFW for some reason.
 46. Has tutorials geared towards Direct3D 11/11.1/11.2 as well as Direct3D 9. The most useful stuff (e.g. textures, meshes, display, input etc) is locked behind a $50 payment, but there are free resources as well.
 
 If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue! I hope this helps you as much as it'll help me in the future.
