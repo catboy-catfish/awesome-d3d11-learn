@@ -103,7 +103,7 @@ I created this list due to not being able to easily find as much information for
 - [NVIDIA GameWorks: Direct3D Graphics/Compute Samples](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/direct3d_index.htm) see Note 8.
 ### d3d11 tutorials and walkthroughs
 - [About-prog: DirectX 11 Initialization, First Triangle](https://web.archive.org/web/20211127054316/https://about-prog.com/directx11/direct3d-11-init-and-triangle-rendering) see Notes 1 and 3.
-- [RasterTek - DirectX 11 on Windows 10 tutorials](https://www.rastertek.com/tutdx11win10.html) see Note 4.
+- [RasterTek - DirectX 11 on Windows 10 tutorials](https://www.rastertek.com/tutdx11win10.html) see Note 4 and 35.
 - [BraynzarSoft - DirectX 11 Tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-braynzar-soft-directx-11-tutorials) see Note 5.
 - [3dgep: Introduction to DirectX 11](https://www.3dgep.com/introduction-to-directx-11/)
 - [3dgep: Texturing and Lighting in DirectX 11](https://www.3dgep.com/texturing-lighting-directx-11/)
