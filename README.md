@@ -113,8 +113,8 @@ I created this list due to not being able to easily find as much information for
 - [Microsoft: D3D11 API Reference](https://docs.microsoft.com/en-us/windows/win32/direct3d11/atoc-d3d11-graphics-reference)
 - [Microsoft: Create a simple Universal Windows Program (UWP) game with DirectX](https://learn.microsoft.com/en-us/windows/uwp/gaming/tutorial--create-your-first-uwp-directx-game)
 - [Anton Gerdelan: Hello Triangle, D3D11 Up and Running](https://antongerdelan.net/opengl/d3d11.html)
-- [LearnD3D11](https://graphicsprogramming.github.io/learnd3d11/) see Note 46.
-- [DirectXTutorials](http://www.directxtutorial.com/default.aspx) see Note 47.
+- [LearnD3D11](https://graphicsprogramming.github.io/learnd3d11/) see Note 45.
+- [DirectXTutorials](http://www.directxtutorial.com/default.aspx) see Note 46.
 ### d3d11 youtube videos
 - [Avoyd: RCC++ ImGui and DirectX 11 Tutorial](https://www.youtube.com/watch?v=5lOOLHmQPBU&list=PLOV2v_nVCDf5tyP3mc1G7vMb7TWVhxDIA&index=1)
 - [ChiliTomatoNoodle: C++ 3D DirectX Tutorial](https://www.youtube.com/watch?v=_4FArgOX1I4&list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) see Note 22.
