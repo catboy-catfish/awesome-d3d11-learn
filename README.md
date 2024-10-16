@@ -76,6 +76,7 @@ I created this list due to not being able to easily find as much information for
 - [matt77hias: D3D11-Projects](https://github.com/matt77hias/Direct3D-11-Projects)
 - [Microsoft: DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
 - [kevinmoran: BeginnerDirect3D11](https://github.com/kevinmoran/BeginnerDirect3D11)
+- [Windows dev docs: Understand D3D11 concepts](https://github.com/MicrosoftDocs/windows-dev-docs/blob/9792abc795332d1123c97d935f783d0a66adbbff/uwp/gaming/understand-direct3d-11-1-concepts.md)
 ### d3d11 utilities
 - [Microsoft: DirectXMath](https://github.com/microsoft/DirectXMath)
 - [Microsoft: DirectXMesh](https://github.com/microsoft/DirectXMesh)
