@@ -78,6 +78,7 @@ I created this list due to not being able to easily find as much information for
 - [kevinmoran: BeginnerDirect3D11](https://github.com/kevinmoran/BeginnerDirect3D11)
 - [Windows dev docs: Understand D3D11 concepts](https://github.com/MicrosoftDocs/windows-dev-docs/blob/9792abc795332d1123c97d935f783d0a66adbbff/uwp/gaming/understand-direct3d-11-1-concepts.md)
 - [tgjones: HLSL tools extension](https://github.com/tgjones/HlslTools)
+- [yashihei: DX11Project](https://github.com/yashihei/DX11Project)
 ### d3d11 utilities
 - [Microsoft: DirectXMath](https://github.com/microsoft/DirectXMath)
 - [Microsoft: DirectXMesh](https://github.com/microsoft/DirectXMesh)
