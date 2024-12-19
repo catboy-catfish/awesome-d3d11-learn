@@ -80,6 +80,7 @@ I created this list due to not being able to easily find as much information for
 - [tgjones: HLSL tools extension](https://github.com/tgjones/HlslTools)
 - [yashihei: DX11Project](https://github.com/yashihei/DX11Project)
 - [resly-l: DX11Engine](https://github.com/Resly-l/DX11Engine)
+- [mmozeiko: setting up and using D3D11 in C](https://gist.github.com/mmozeiko/5e727f845db182d468a34d524508ad5f)
 ### d3d11 utilities
 - [Microsoft: DirectXMath](https://github.com/microsoft/DirectXMath)
 - [Microsoft: DirectXMesh](https://github.com/microsoft/DirectXMesh)
