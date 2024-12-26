@@ -132,6 +132,7 @@ I created this list due to not being able to easily find as much information for
 - [PardCode: C++ 3D Game Tutorial Series](https://youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy&si=1a_mg2MVHKhIVxH6) see Notes 28 to 30.
 - [Samuli Natri: DirectX 11 tutorials](https://youtube.com/playlist?list=PLCOe2mg1ZXrn5rL4__xVwCO9NarhVdxPn&si=cgl1wB2-qhmWLGZw)
 - [Oskar Schramm: 5 Steps To Start Learning DirectX 11](https://www.youtube.com/watch?v=O5qT7HGr_Ek)
+- [LiveLessons: DirectX Essentials Tutorial: Explore the Directx Graphics Pipeline](https://www.youtube.com/watch?v=4RFlOvVPuys&t=0s) see Note 47.
 ### d3d11 other webpages
 - [maraneshi: HLSL Constant Buffer Layout Visualizer](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)
 
@@ -198,5 +199,6 @@ I created this list due to not being able to easily find as much information for
 44. Tomas Akenine-Möller, Eric Haines, Naty Hoffman. Highest price: $12.68 hardcover. Doesn't cover DirectX 11 in particular, it's more about computer graphics in general, but apparently it does use D3D11.
 45. Creators thought it would be a good idea to use GLFW for some reason.
 46. Has tutorials geared towards Direct3D 11/11.1/11.2 as well as Direct3D 9. The most useful stuff (e.g. textures, meshes, display, input etc) is locked behind a $50 payment, but there are free resources as well.
+47. This video doesn't explicitly state that it's using Direct3D 11, but it came before the release of Direct3D 12. I assume it's using the latest version available at the time.
 
-If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D11 resource to add here, please consider opening an issue! I hope this helps you as much as it'll help me in the future.
+If there is an issue with this repository, something that needs citations or just want to suggest another Direct3D 11 resource to add here, please consider opening an issue! I hope this helps you as much as it'll help me in the future.
